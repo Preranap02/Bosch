@@ -1,0 +1,1 @@
+Selection sort is among the simplest of sorting techniques and it works very well for small files.
