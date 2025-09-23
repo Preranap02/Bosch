@@ -1,0 +1,972 @@
+carrier,total_shipments,avg_duration,total_claims
+Wallace-Bell,1,7.0000,NULL
+"Williams, Hunt and Rogers",1,10.0000,NULL
+Mcdonald-Ortiz,1,10.0000,NULL
+Stewart-Reyes,1,7.0000,NULL
+"Alexander LLC",2,6.0000,1279.89
+"Jones, Valenzuela and Phillips",1,5.0000,NULL
+"Hunt, Schneider and Hartman",1,5.0000,NULL
+"Garcia Inc",2,5.5000,549.98
+Johnson-Gonzalez,1,4.0000,NULL
+"Leonard LLC",1,7.0000,NULL
+Mcgee-Mack,1,2.0000,NULL
+Lee-Munoz,1,9.0000,NULL
+"Murillo Ltd",1,6.0000,NULL
+"Daniels, Green and Carrillo",1,4.0000,NULL
+Short-Logan,1,8.0000,NULL
+Bautista-Underwood,2,9.0000,843.96
+"Smith, Valdez and Hays",1,5.0000,NULL
+"Grimes and Sons",1,4.0000,980.19
+"Cummings and Sons",1,2.0000,157.03
+Hall-Matthews,1,8.0000,NULL
+"Todd, Sharp and Murray",1,9.0000,NULL
+"Edwards and Sons",1,8.0000,NULL
+Carrillo-Wolfe,1,3.0000,NULL
+"Gonzales PLC",1,9.0000,NULL
+"Brooks PLC",1,9.0000,NULL
+"Torres Ltd",2,4.5000,815.59
+"Porter Ltd",3,3.0000,1320.19
+Morgan-Barnes,1,6.0000,NULL
+"Goodwin, Farmer and Vaughn",1,10.0000,NULL
+Nguyen-Johnson,1,7.0000,217.77
+"Weeks and Sons",1,2.0000,NULL
+Carroll-Lloyd,1,2.0000,NULL
+"Berry, Myers and James",1,3.0000,981.84
+Brown-Hughes,1,7.0000,152.78
+Rodriguez-Hudson,1,5.0000,NULL
+Fowler-Torres,1,7.0000,NULL
+"Garcia PLC",1,2.0000,399.06
+"Johnson Ltd",4,6.5000,113.41
+"Burns, Lopez and Jones",2,10.0000,1112.90
+Campbell-Hall,1,5.0000,123.98
+"Warren, Gibson and Wood",1,6.0000,NULL
+"Jackson Group",3,5.3333,698.13
+Moore-Rodriguez,1,2.0000,NULL
+"Barnes, Paul and Price",1,4.0000,565.17
+"Anderson and Sons",1,6.0000,306.40
+Reynolds-Mckinney,1,10.0000,NULL
+Moore-Andrews,1,7.0000,NULL
+Matthews-Shaw,1,10.0000,NULL
+"Stevens, Harris and Ritter",1,6.0000,708.24
+Brown-Ross,1,6.0000,NULL
+"Fox PLC",1,9.0000,NULL
+Stevens-Johnston,1,6.0000,NULL
+"Davis, Lucas and Ellison",1,4.0000,NULL
+Graves-Dawson,1,4.0000,NULL
+Myers-Colon,1,10.0000,NULL
+"Perry and Sons",1,4.0000,741.36
+"Quinn, Ellis and Bartlett",1,10.0000,NULL
+"Hale Inc",1,9.0000,NULL
+Hale-Williams,1,4.0000,NULL
+"Hill Ltd",1,7.0000,NULL
+"Carter, Hendricks and Wolfe",1,4.0000,817.53
+"Barrera, Kerr and Jenkins",1,7.0000,NULL
+"Martinez, Wood and Campos",1,4.0000,993.89
+"Miranda, Nguyen and Hayes",1,8.0000,NULL
+Clark-Williams,1,7.0000,NULL
+"Jones Ltd",2,8.0000,NULL
+"Brady, James and Reese",2,10.0000,608.98
+"Sanders Inc",1,10.0000,NULL
+Wilson-Stark,1,10.0000,124.97
+Santiago-Marshall,1,8.0000,NULL
+Jones-Kelley,1,7.0000,NULL
+"Reeves Group",1,3.0000,NULL
+"Ruiz LLC",3,9.0000,2229.38
+"Jackson Inc",1,8.0000,NULL
+"Garcia, Phillips and Nichols",1,5.0000,NULL
+Jackson-Powers,1,7.0000,NULL
+"Byrd and Sons",1,2.0000,NULL
+Howard-Robinson,1,4.0000,757.40
+"Stafford PLC",1,5.0000,NULL
+"Ramos Inc",1,2.0000,NULL
+"Cain, Davidson and Moran",1,9.0000,626.63
+"Myers LLC",1,6.0000,NULL
+Williams-Smith,1,3.0000,NULL
+Wang-Mcfarland,1,4.0000,NULL
+Kerr-Gonzalez,1,3.0000,NULL
+"Fisher Inc",1,7.0000,NULL
+Hoover-Frazier,1,9.0000,NULL
+"Walker Inc",1,2.0000,NULL
+"Jackson, Jackson and Perry",1,7.0000,NULL
+"Ochoa LLC",1,2.0000,NULL
+"Sims, Weber and Villa",1,2.0000,NULL
+Mcmillan-Martinez,1,10.0000,166.47
+"Rodriguez LLC",2,4.0000,NULL
+"Smith Ltd",3,7.0000,1102.28
+Smith-Lewis,1,10.0000,NULL
+"Jones LLC",1,4.0000,NULL
+"Hanson, Williams and Mcclure",1,8.0000,NULL
+Turner-George,1,10.0000,NULL
+"Marquez PLC",1,10.0000,352.30
+"King Inc",1,8.0000,171.66
+"Nguyen, Mccoy and Price",1,2.0000,NULL
+"Anderson, Thompson and Gill",1,4.0000,NULL
+"Stewart, York and Olson",1,4.0000,356.01
+Smith-Barr,1,5.0000,NULL
+Reyes-Davidson,2,6.0000,1145.38
+"Gordon Ltd",2,9.0000,NULL
+"Hall PLC",1,8.0000,NULL
+"Parker Ltd",1,2.0000,921.96
+Todd-Harvey,1,3.0000,NULL
+"Taylor Group",1,3.0000,622.93
+Harris-Bennett,1,4.0000,NULL
+"Johnson, Mclean and George",1,6.0000,669.36
+Stevenson-Murphy,1,5.0000,159.77
+Stewart-Buchanan,1,2.0000,652.33
+"Meyer Group",1,4.0000,NULL
+"Hess, Christensen and Perez",1,5.0000,NULL
+"Rivera, Allen and Ryan",1,4.0000,NULL
+"Mcneil, Solis and Horton",1,7.0000,204.34
+"Franklin Group",1,8.0000,241.66
+"Morris, Ramos and Smith",1,10.0000,NULL
+Jones-Lee,1,10.0000,NULL
+"Braun, Mays and Martinez",1,3.0000,347.92
+"Watkins and Sons",1,9.0000,NULL
+"Romero Group",1,5.0000,NULL
+"Mcdonald, Martin and Gonzalez",1,4.0000,NULL
+Thompson-Wright,1,8.0000,NULL
+Ray-Faulkner,1,3.0000,NULL
+"Nelson Group",1,3.0000,NULL
+"Tapia LLC",1,7.0000,NULL
+Gray-Ruiz,2,3.0000,1496.19
+Wagner-Moss,1,6.0000,704.57
+"Weiss Group",1,9.0000,NULL
+"Gill Group",1,10.0000,NULL
+"Blake LLC",1,3.0000,NULL
+"Medina, Tran and Thompson",1,2.0000,351.13
+Ford-Chavez,1,9.0000,848.48
+Hart-Castillo,1,7.0000,NULL
+Taylor-Harrison,1,3.0000,NULL
+"Hendricks Inc",1,5.0000,813.28
+"Hensley Ltd",1,6.0000,NULL
+"Brooks, Sullivan and Perry",1,10.0000,NULL
+Waller-Brooks,1,8.0000,NULL
+Parker-Archer,1,9.0000,NULL
+"Ortiz Inc",1,4.0000,238.75
+"Cruz PLC",2,9.0000,1338.01
+"Lee Group",1,10.0000,NULL
+Wise-Walton,1,10.0000,NULL
+Hicks-Burns,1,9.0000,NULL
+"Richardson, Brown and Cruz",1,6.0000,NULL
+Fitzgerald-Allen,1,4.0000,NULL
+"Dorsey LLC",1,2.0000,964.31
+"Mann, Johnson and Wade",1,8.0000,NULL
+"Green Group",1,5.0000,NULL
+"Hernandez, Wright and Lane",1,3.0000,NULL
+"Skinner, Smith and Wise",1,7.0000,NULL
+"Dawson, Cruz and Mccarthy",1,9.0000,NULL
+"Stone and Sons",1,6.0000,NULL
+Martin-Simmons,1,7.0000,NULL
+"Turner, Ponce and Barrett",1,3.0000,NULL
+Willis-Gross,1,7.0000,NULL
+"Booth, Rodriguez and Armstrong",1,4.0000,NULL
+Olsen-Adams,1,5.0000,NULL
+"Conrad Group",1,10.0000,NULL
+"Parker, Benitez and Velasquez",1,8.0000,NULL
+"Davis Ltd",1,3.0000,206.57
+Warren-Pena,1,10.0000,NULL
+"Jordan, Thompson and Lopez",1,6.0000,NULL
+"Gonzalez and Sons",1,7.0000,NULL
+"Fry, Hayes and Olsen",1,10.0000,NULL
+"Harris Ltd",1,2.0000,NULL
+"Lamb and Sons",1,9.0000,NULL
+Bird-Savage,1,6.0000,697.61
+Sims-Weber,1,2.0000,NULL
+"Martin, Carter and Gray",1,5.0000,NULL
+Brown-Johnson,1,8.0000,NULL
+"Woods Ltd",1,6.0000,844.55
+"Smith LLC",2,4.0000,NULL
+"Ortega Inc",1,2.0000,NULL
+"Clark Inc",1,8.0000,NULL
+Morrison-Hatfield,1,4.0000,733.66
+Frederick-Kennedy,1,10.0000,NULL
+Munoz-Rogers,2,2.0000,1283.30
+"Wu, Key and Montoya",1,3.0000,897.32
+Ortega-Gray,1,8.0000,363.99
+"Hester LLC",1,10.0000,NULL
+Hardy-Barron,1,3.0000,676.00
+"Johnson Inc",2,6.0000,NULL
+"Ramirez, Lyons and Briggs",1,5.0000,NULL
+Hayes-Parks,1,9.0000,663.93
+Robertson-Keller,1,9.0000,NULL
+"Andersen LLC",1,7.0000,139.41
+"Schultz Inc",1,6.0000,NULL
+"Nguyen, Wallace and Lawson",1,6.0000,NULL
+Stevenson-Bauer,1,2.0000,NULL
+Patterson-Huynh,1,5.0000,NULL
+Hatfield-Vincent,1,3.0000,NULL
+"Navarro LLC",1,2.0000,650.87
+"Lee, Thomas and Meyer",1,6.0000,NULL
+"Glover, Moran and Johnson",1,8.0000,378.40
+Robles-Turner,1,9.0000,467.73
+"Davies, Archer and Owens",1,8.0000,NULL
+Friedman-Olson,1,3.0000,NULL
+"Allen, Lewis and Mullins",2,7.0000,980.76
+"Graves, Garcia and Holder",1,4.0000,NULL
+"Martin LLC",1,2.0000,NULL
+Miranda-Robinson,1,3.0000,NULL
+Wade-Lynn,1,8.0000,NULL
+"Martinez, Taylor and Nichols",1,6.0000,305.93
+"Vasquez, Pope and Cook",1,6.0000,NULL
+"Huynh PLC",1,8.0000,NULL
+"Schneider Group",1,10.0000,NULL
+"Paul, Hardy and Valdez",1,9.0000,NULL
+"Burch, Kim and Hall",1,2.0000,NULL
+Wilson-Miller,1,4.0000,NULL
+"Peterson PLC",2,5.5000,565.37
+"Garner Inc",1,9.0000,NULL
+"Richardson, Castaneda and Finley",1,6.0000,NULL
+"Mclaughlin, Collins and Lawrence",1,5.0000,747.74
+"Boone Group",1,5.0000,NULL
+Wise-Salinas,1,2.0000,NULL
+"Meyer PLC",1,5.0000,357.99
+"Walker, Foster and Medina",1,3.0000,NULL
+Stewart-Cabrera,1,8.0000,NULL
+Hood-Porter,1,6.0000,NULL
+Hernandez-Campbell,1,7.0000,NULL
+"Ortega, Solis and Warner",1,2.0000,NULL
+"Flores, Shaw and Barker",1,6.0000,NULL
+Shea-Mccarthy,1,2.0000,NULL
+Welch-Lewis,1,9.0000,NULL
+Padilla-Bennett,1,10.0000,NULL
+Hernandez-Moran,1,2.0000,NULL
+"Michael, Walker and Fitzgerald",1,7.0000,817.70
+"Gates Ltd",1,6.0000,411.15
+Evans-Briggs,1,7.0000,NULL
+"Ritter PLC",1,10.0000,NULL
+Rogers-Gregory,1,5.0000,NULL
+Todd-Myers,1,9.0000,NULL
+"Acosta, Campbell and Leblanc",1,3.0000,829.20
+"Chase, Long and Anderson",1,9.0000,NULL
+"Glenn, Brown and Michael",1,3.0000,715.91
+Ellis-Martin,1,4.0000,838.49
+"Ramos Group",1,5.0000,NULL
+Merritt-Clark,1,4.0000,NULL
+"Gonzalez, Curtis and Cox",1,3.0000,NULL
+"Garcia, Floyd and Garrison",1,8.0000,NULL
+Clements-Simmons,1,7.0000,222.62
+"Howe Inc",1,9.0000,NULL
+Mccann-White,1,7.0000,680.56
+"Wilson PLC",1,7.0000,NULL
+"Morgan, Hamilton and Hernandez",1,4.0000,NULL
+"Powell, Johnson and Allen",1,7.0000,NULL
+Turner-Carlson,1,8.0000,NULL
+"Delgado Group",1,8.0000,NULL
+"Esparza, Lambert and Davis",1,8.0000,NULL
+Hancock-Santos,1,3.0000,NULL
+Chen-Wallace,1,4.0000,NULL
+"Wilson Inc",1,10.0000,857.42
+"Burns Ltd",1,9.0000,NULL
+"Walker, Matthews and Archer",1,8.0000,NULL
+Hill-Mcgee,1,3.0000,925.11
+"White, Washington and Newman",1,5.0000,NULL
+Evans-Martinez,1,10.0000,NULL
+Brown-Stout,1,9.0000,NULL
+"Lopez, Hess and Smith",1,6.0000,NULL
+"Roth, Logan and Moreno",1,5.0000,476.91
+"Stone PLC",1,10.0000,NULL
+"Reeves, Tyler and Martinez",1,8.0000,NULL
+"Sheppard Inc",1,6.0000,148.14
+"Atkins Ltd",1,2.0000,NULL
+"Smith Group",1,4.0000,NULL
+Martinez-Anderson,1,7.0000,NULL
+"Delgado Inc",2,6.0000,774.14
+"Scott, Mullins and Miller",1,6.0000,NULL
+"Hunter LLC",1,2.0000,NULL
+"Jackson, Rowland and Barrett",1,9.0000,137.76
+"Turner PLC",1,9.0000,NULL
+Hopkins-Wallace,1,7.0000,NULL
+"Henry, Edwards and Bartlett",1,6.0000,NULL
+Obrien-Dixon,1,3.0000,NULL
+"Garcia, Weiss and Young",1,5.0000,808.93
+"Thomas and Sons",1,8.0000,NULL
+"Guzman and Sons",1,9.0000,804.73
+"Howard, Anderson and Dean",1,4.0000,NULL
+"Pierce LLC",1,9.0000,249.72
+Santos-Martin,1,6.0000,NULL
+Miller-King,1,3.0000,NULL
+Bentley-Thomas,1,9.0000,183.07
+Cowan-Terry,1,9.0000,NULL
+"Klein PLC",1,8.0000,NULL
+"Holland, Dixon and Martin",1,8.0000,NULL
+"Stewart Group",1,9.0000,713.95
+Johnson-Munoz,1,5.0000,215.93
+"Nelson PLC",1,5.0000,NULL
+"Sutton Group",1,9.0000,NULL
+"Murphy Inc",1,8.0000,NULL
+Blankenship-Strickland,1,4.0000,NULL
+"Melton and Sons",1,9.0000,NULL
+Smith-Bennett,1,9.0000,NULL
+"Gray Inc",1,6.0000,NULL
+"Thompson Ltd",1,7.0000,440.13
+Chapman-Roman,1,10.0000,NULL
+"Rice Ltd",1,5.0000,NULL
+"Grimes, Arnold and Lawson",1,7.0000,NULL
+"Reed Ltd",1,3.0000,NULL
+"Faulkner, Schmidt and Wheeler",1,9.0000,NULL
+Woods-Anderson,1,3.0000,368.84
+"Parks Ltd",1,3.0000,NULL
+"Sandoval and Sons",1,9.0000,NULL
+Bradley-Adams,1,4.0000,244.64
+"Fowler, Wood and Waters",1,3.0000,356.69
+"Franklin, Mann and White",1,5.0000,NULL
+Lindsey-Shaw,1,3.0000,NULL
+Cisneros-Meyer,1,7.0000,NULL
+"Keith, Cervantes and Torres",1,8.0000,NULL
+"Meza Group",1,8.0000,NULL
+Bruce-Walters,1,2.0000,220.90
+"Blair Inc",1,3.0000,NULL
+"Johnston Inc",1,8.0000,NULL
+"Mitchell, Noble and Stokes",1,2.0000,NULL
+"Hayden Group",2,6.0000,1363.32
+"Romero, Cross and Castillo",1,6.0000,NULL
+"Jennings, Rhodes and Patel",1,2.0000,138.07
+"Sullivan PLC",1,8.0000,NULL
+"Bartlett Ltd",1,9.0000,NULL
+"Klein Ltd",1,5.0000,NULL
+"Brady, Sanchez and Stevenson",1,8.0000,NULL
+"Sutton, Williams and West",1,10.0000,NULL
+"Craig PLC",1,10.0000,NULL
+"Thompson LLC",1,2.0000,NULL
+"Palmer Inc",1,6.0000,340.09
+Simpson-Jackson,1,2.0000,NULL
+"Morgan Ltd",1,3.0000,335.92
+"Decker Inc",1,6.0000,639.54
+Evans-Carter,1,5.0000,129.88
+"Long, Leblanc and Hickman",1,4.0000,NULL
+"Robertson, Barry and Walls",1,3.0000,NULL
+"Charles, Brown and Smith",1,9.0000,NULL
+Murphy-Gomez,1,3.0000,NULL
+"Bailey Ltd",1,9.0000,NULL
+"Morales Inc",1,8.0000,974.36
+"Jordan and Sons",1,6.0000,NULL
+"Rice and Sons",1,9.0000,NULL
+Martinez-Freeman,1,10.0000,NULL
+"Hammond LLC",1,10.0000,NULL
+Diaz-Mcclain,1,3.0000,NULL
+"Cain, Rodriguez and Gonzales",1,6.0000,NULL
+Martin-Gomez,1,6.0000,NULL
+Smith-Stephenson,1,4.0000,NULL
+"Gonzalez, Lopez and Williams",1,6.0000,801.30
+Fisher-Rivera,1,2.0000,NULL
+"Martin and Sons",1,8.0000,932.82
+Moyer-Bird,1,7.0000,NULL
+"Fisher PLC",1,4.0000,NULL
+Marsh-Klein,1,9.0000,NULL
+Potter-Deleon,1,3.0000,163.35
+Shaw-Mclean,1,5.0000,NULL
+Anderson-Rosario,1,6.0000,NULL
+"Martinez LLC",1,6.0000,NULL
+"Smith, Cohen and Williams",1,3.0000,139.62
+Jordan-Harper,1,10.0000,NULL
+"Hamilton LLC",1,3.0000,NULL
+Tucker-Hodges,1,6.0000,NULL
+"Williamson Ltd",1,9.0000,NULL
+"Lopez, Campbell and Wilson",1,2.0000,NULL
+Gamble-Wright,1,8.0000,727.29
+Gonzalez-Mccarthy,1,3.0000,531.38
+"Haynes PLC",1,4.0000,960.93
+"White, Riddle and Garza",1,6.0000,NULL
+"Hernandez, Martinez and Morales",1,7.0000,NULL
+Mooney-Hickman,1,8.0000,NULL
+Smith-Gonzalez,1,6.0000,NULL
+"James PLC",1,5.0000,486.91
+Graves-Baird,2,3.0000,1856.93
+"Rogers Group",1,8.0000,NULL
+"Hicks Ltd",1,2.0000,NULL
+"Torres LLC",1,5.0000,482.65
+Ramirez-Bell,1,6.0000,NULL
+Wright-Jacobson,1,5.0000,NULL
+"Williams Inc",2,6.5000,827.05
+"Garner, Lewis and Kennedy",1,9.0000,NULL
+"Garcia, Lopez and Vaughan",1,6.0000,NULL
+Cook-Rodriguez,1,6.0000,NULL
+"Smith, Arnold and Atkins",1,7.0000,NULL
+Ward-Patrick,2,6.0000,1688.36
+"Maxwell, Rice and Watson",1,3.0000,369.60
+"Hill, Silva and Miller",1,4.0000,NULL
+"Anderson Ltd",1,5.0000,NULL
+"Martinez, Willis and Barr",1,7.0000,359.89
+"Roth, Lee and Griffin",1,6.0000,NULL
+"Jones PLC",1,5.0000,NULL
+"Cooper, Swanson and Mayo",1,2.0000,490.57
+"Ferguson and Sons",1,4.0000,NULL
+"Anderson Group",1,8.0000,NULL
+"Dawson, Snow and Malone",1,10.0000,105.62
+"Hester, Jacobson and West",1,7.0000,NULL
+"Wilson, Graham and Webb",1,2.0000,NULL
+"Velazquez, Gordon and Johnson",1,9.0000,NULL
+"Hill, Ponce and Roberts",1,7.0000,NULL
+"Brown, Compton and Lee",1,5.0000,818.82
+Simpson-Patel,1,6.0000,236.20
+"Mata, Martin and Christensen",1,2.0000,NULL
+Hart-Myers,1,10.0000,NULL
+"Nelson, White and Moore",1,4.0000,669.96
+"Vargas Inc",1,4.0000,NULL
+"Gibson, Zimmerman and Warren",1,6.0000,NULL
+Phelps-Phillips,1,6.0000,NULL
+Arnold-Jackson,1,8.0000,NULL
+"Ferguson LLC",1,7.0000,492.17
+"Bowman LLC",1,9.0000,NULL
+"Nelson Inc",2,7.0000,NULL
+"Whitney, Mayo and Clark",1,9.0000,NULL
+"Jacobs, Wood and Miller",1,8.0000,NULL
+"Henson, Baker and Anderson",1,6.0000,NULL
+"Phillips, Galloway and Garrett",1,9.0000,777.39
+"Holloway and Sons",1,6.0000,190.01
+"Sanford, Thompson and Bonilla",1,2.0000,NULL
+"Sandoval, Parrish and Crosby",1,9.0000,216.99
+"Rodriguez, Reese and Reyes",2,3.0000,1842.08
+"Scott, Sims and Munoz",1,7.0000,NULL
+"Montoya and Sons",1,9.0000,NULL
+Adams-Perkins,1,3.0000,NULL
+Moore-Hall,1,6.0000,NULL
+"Hamilton, Hernandez and Mendoza",1,5.0000,NULL
+White-Lopez,1,8.0000,NULL
+"Lopez Group",1,3.0000,NULL
+"White, Campbell and Collins",1,9.0000,NULL
+"Roth Ltd",2,3.0000,911.81
+"Lopez, Thomas and Simmons",1,5.0000,NULL
+Stout-Waller,1,7.0000,NULL
+"Ramsey and Sons",2,4.0000,1275.86
+"Christensen, Smith and Garcia",1,4.0000,NULL
+Smith-Serrano,1,6.0000,NULL
+"Michael, Anderson and Carrillo",1,9.0000,NULL
+Thomas-Burton,2,2.0000,1111.98
+"Sparks Inc",1,2.0000,NULL
+"Daniels LLC",1,2.0000,403.58
+"Miller, Taylor and Malone",1,5.0000,NULL
+Ochoa-Parker,1,9.0000,NULL
+Moore-Brown,1,7.0000,NULL
+"Adams, Stephens and Smith",1,3.0000,102.60
+"Garcia LLC",2,5.5000,937.89
+"Hunt Group",1,5.0000,289.84
+"Smith and Sons",3,6.6667,1470.50
+"Perez Group",1,7.0000,NULL
+"Gomez LLC",1,3.0000,NULL
+"Dorsey Ltd",1,7.0000,554.64
+Mcdaniel-Espinoza,1,4.0000,NULL
+"Vasquez Inc",1,10.0000,488.10
+Jones-Cook,1,8.0000,NULL
+Mclean-Gillespie,1,6.0000,160.30
+"Munoz and Sons",1,4.0000,NULL
+Moreno-Greene,1,3.0000,233.32
+"Coleman, Barry and Mcdaniel",1,10.0000,NULL
+"Roth, Bailey and Garcia",1,8.0000,830.05
+Stanley-Cantu,1,5.0000,911.05
+"Lindsey, Mccormick and Hensley",1,5.0000,NULL
+"Strickland and Sons",1,10.0000,NULL
+Hernandez-Griffin,1,9.0000,NULL
+Briggs-Wilson,1,8.0000,121.04
+Moyer-Ramirez,1,9.0000,NULL
+"Morris and Sons",1,10.0000,NULL
+"Saunders LLC",1,9.0000,924.40
+Snyder-Olson,1,2.0000,NULL
+Guzman-Fields,1,5.0000,NULL
+"Pham Ltd",1,4.0000,NULL
+"Reyes PLC",1,3.0000,102.46
+Ryan-Vasquez,1,2.0000,NULL
+"Underwood, Cruz and Carpenter",1,9.0000,NULL
+Rose-Frank,1,7.0000,NULL
+"Robinson, Miller and Ward",1,5.0000,NULL
+"Mcknight Inc",1,6.0000,NULL
+Grant-Rosario,1,6.0000,NULL
+"Brown LLC",2,2.5000,1265.46
+Allison-Delacruz,1,6.0000,NULL
+"Phillips and Sons",1,5.0000,NULL
+"Bonilla, Durham and Sanchez",1,6.0000,NULL
+"Brown and Sons",1,8.0000,NULL
+"Hayden Ltd",1,9.0000,NULL
+"Bennett Inc",1,8.0000,NULL
+"Hanna, Watson and Miles",1,9.0000,NULL
+"Perkins, Woods and Wheeler",1,9.0000,NULL
+"Johnson LLC",2,7.0000,NULL
+"Miller Inc",2,6.0000,798.73
+"Carroll Group",1,7.0000,NULL
+"Cannon Group",1,2.0000,323.42
+"Taylor, Rose and Rush",1,5.0000,992.47
+Jenkins-Rogers,1,10.0000,NULL
+"Dominguez, Mitchell and Moore",1,2.0000,NULL
+"Johnson, Potter and Gordon",1,8.0000,NULL
+"Sanders Group",1,10.0000,NULL
+"Vaughan, Gibson and Dawson",1,9.0000,NULL
+Ellison-Shaw,1,10.0000,361.71
+"Perez, Huynh and Nelson",1,9.0000,446.59
+"Boyd and Sons",1,6.0000,NULL
+"Lewis, Montgomery and Robinson",1,3.0000,127.63
+"Carson PLC",1,4.0000,NULL
+"Skinner, Velasquez and Mcdonald",1,4.0000,NULL
+Delgado-Sullivan,1,8.0000,NULL
+Martin-Pratt,1,8.0000,NULL
+"Coleman, Nelson and Garcia",1,6.0000,NULL
+Morrison-Bradford,1,6.0000,335.96
+"Allen and Sons",1,3.0000,NULL
+"Rodriguez, Lewis and Smith",1,7.0000,NULL
+Lopez-Harris,1,2.0000,NULL
+"Allen Inc",2,7.5000,452.71
+"Cunningham, Elliott and Tyler",1,4.0000,NULL
+Smith-Kelly,1,3.0000,NULL
+Benjamin-Porter,2,4.0000,1825.80
+Walton-Swanson,1,5.0000,NULL
+"Park Inc",1,3.0000,NULL
+Russell-Figueroa,1,7.0000,NULL
+"Shaw and Sons",1,10.0000,NULL
+"Matthews Group",1,8.0000,NULL
+Willis-Christian,1,8.0000,NULL
+Martin-Fleming,1,7.0000,NULL
+"Mcclure Inc",1,3.0000,NULL
+"Hall, Lewis and Maldonado",1,4.0000,NULL
+"Mack and Sons",1,2.0000,910.75
+"Black, Chandler and Curtis",1,10.0000,NULL
+West-Anderson,1,6.0000,NULL
+Ward-Chase,1,2.0000,NULL
+Williams-Marquez,1,10.0000,808.55
+"Hughes, Clark and Bishop",1,8.0000,NULL
+"Rubio PLC",1,2.0000,NULL
+"Gamble, Davis and Smith",1,7.0000,244.83
+Payne-Novak,1,2.0000,NULL
+"Porter Group",1,5.0000,NULL
+Jackson-Phillips,1,2.0000,NULL
+"Ramirez LLC",1,7.0000,NULL
+Davis-White,1,10.0000,NULL
+Scott-Kennedy,1,3.0000,NULL
+Hines-Ramos,1,7.0000,NULL
+"Case PLC",1,3.0000,NULL
+Williams-Trevino,1,2.0000,674.99
+Ortiz-Harvey,1,9.0000,NULL
+"Anderson, Richardson and Kirk",1,4.0000,NULL
+Brooks-Fleming,1,4.0000,NULL
+"Cole, Rich and Esparza",1,9.0000,NULL
+"Oliver Ltd",1,9.0000,994.04
+"Figueroa and Sons",1,10.0000,NULL
+"Nicholson, Smith and Farrell",1,2.0000,NULL
+Bennett-Hudson,1,5.0000,NULL
+"Walker Group",2,8.5000,NULL
+"Davis, Owens and Day",1,2.0000,NULL
+Rodriguez-White,1,7.0000,NULL
+"Lowery Group",1,10.0000,739.43
+Gonzalez-Murphy,1,5.0000,190.51
+Peterson-Munoz,1,10.0000,100.31
+"Park Group",1,8.0000,NULL
+"Ramirez Inc",1,3.0000,NULL
+"Moore, Harrison and Bowman",1,4.0000,NULL
+Carroll-Huerta,1,10.0000,748.32
+Brown-Stokes,1,9.0000,836.05
+Irwin-Lewis,1,8.0000,NULL
+"Parrish Ltd",1,9.0000,585.68
+Nelson-Reid,1,3.0000,NULL
+"Thomas LLC",1,9.0000,NULL
+Miller-Russo,1,4.0000,NULL
+Savage-Warren,1,3.0000,784.95
+"Orozco, White and Brown",1,10.0000,190.34
+Peterson-Mullins,1,6.0000,NULL
+"Gonzalez Group",1,9.0000,460.55
+Alvarez-Barker,1,5.0000,NULL
+"Sheppard Group",2,7.0000,925.21
+Gaines-Hudson,1,7.0000,NULL
+"Hoffman PLC",1,3.0000,517.02
+"Miller Ltd",1,8.0000,400.39
+"Jensen, Morris and Downs",1,6.0000,NULL
+"Newton, Doyle and Stewart",1,7.0000,NULL
+"Mosley and Sons",1,5.0000,NULL
+Lin-Wilson,2,2.0000,506.93
+"Russell, Meyer and Smith",1,9.0000,NULL
+Harding-Mathews,1,4.0000,719.82
+"Cole, Montes and Davis",1,8.0000,235.85
+"Reese and Sons",1,10.0000,NULL
+Horton-Schroeder,1,6.0000,NULL
+"Gray, Bailey and Farley",1,8.0000,975.27
+"Ray, Smith and Cervantes",1,3.0000,NULL
+"Turner LLC",1,4.0000,NULL
+"Fuentes, Martinez and Porter",1,6.0000,383.54
+Gutierrez-Bell,1,3.0000,NULL
+"Simmons, Dickson and Rogers",1,6.0000,NULL
+"Ellis LLC",1,4.0000,992.96
+"Tran and Sons",1,10.0000,442.13
+"Graham, Mitchell and Keller",1,4.0000,853.76
+"Kim, Campbell and Oliver",1,6.0000,NULL
+"Cowan Inc",1,3.0000,NULL
+"Banks PLC",1,8.0000,NULL
+Garcia-Brady,1,5.0000,NULL
+"Ho, Garcia and Wallace",1,2.0000,NULL
+"Shaffer, Contreras and Christian",1,2.0000,NULL
+"James, Gonzalez and Harrison",1,9.0000,NULL
+"Bell Group",1,7.0000,NULL
+Odonnell-Newman,1,7.0000,699.88
+"Foster, Ayers and Casey",1,7.0000,NULL
+"Campbell, Hobbs and Baker",1,4.0000,NULL
+Nunez-Smith,1,6.0000,NULL
+Johnson-Johnson,1,9.0000,246.46
+Randall-Stone,1,7.0000,NULL
+"Greene, Rogers and Haley",1,7.0000,592.03
+Allen-Beltran,1,8.0000,NULL
+"Jensen Group",1,8.0000,546.56
+"Solis PLC",1,8.0000,NULL
+Anderson-Fields,1,10.0000,NULL
+"Thompson, Strong and Holmes",1,9.0000,NULL
+Hall-Mckinney,1,9.0000,NULL
+"Mueller, Cameron and Burton",1,3.0000,482.42
+Hood-Moore,1,8.0000,NULL
+Harris-Davis,1,9.0000,NULL
+Smith-Carrillo,1,9.0000,NULL
+"Knapp, Miller and Reyes",3,10.0000,1773.77
+"Gross, Lucero and Walters",1,6.0000,NULL
+Lopez-Delgado,1,5.0000,NULL
+"Phillips PLC",1,7.0000,NULL
+"Barber Group",1,2.0000,NULL
+Hopkins-Hill,1,8.0000,NULL
+"Burton Ltd",1,10.0000,NULL
+"Camacho, Rodriguez and Ho",2,8.0000,1380.51
+Kline-Davis,1,4.0000,NULL
+Kirk-Durham,1,7.0000,NULL
+"Myers Group",1,6.0000,501.84
+"Gutierrez Group",1,9.0000,NULL
+"Jones, Mcdaniel and Brooks",1,7.0000,505.30
+Schultz-Hayes,1,2.0000,NULL
+"White Inc",1,6.0000,NULL
+"Keller Ltd",1,8.0000,NULL
+"Bond, Wilson and Cooper",1,8.0000,NULL
+Webb-Mendez,1,6.0000,NULL
+"Smith, Boyd and Scott",1,8.0000,929.74
+"Lee Inc",1,2.0000,NULL
+"Johnson, Hunt and Hernandez",1,4.0000,NULL
+Wilson-Robinson,1,5.0000,NULL
+Taylor-Miller,1,7.0000,NULL
+"Case, Adams and Olson",1,8.0000,185.57
+"Bailey PLC",1,3.0000,NULL
+"Phillips, Mcgee and Simpson",1,3.0000,NULL
+"Potts, Nielsen and Wright",1,4.0000,NULL
+"Mcdaniel Ltd",1,3.0000,NULL
+Hayden-Garcia,1,4.0000,NULL
+"Collins, Bauer and Mckay",1,9.0000,NULL
+Hamilton-Griffin,1,7.0000,NULL
+"Burgess, Cabrera and Dean",1,9.0000,NULL
+"Reyes, Gonzalez and Gomez",1,2.0000,NULL
+"Weiss, Cole and Preston",1,6.0000,NULL
+"King, Ortiz and Munoz",1,4.0000,630.67
+"Clements, Moreno and Sanders",1,6.0000,NULL
+"White LLC",1,10.0000,NULL
+Gibbs-Howard,1,8.0000,NULL
+"Lewis LLC",1,9.0000,833.21
+Thomas-Edwards,1,3.0000,NULL
+"Flores Inc",1,4.0000,NULL
+"Murphy, Marshall and Pope",1,9.0000,NULL
+"Hoffman Group",1,5.0000,NULL
+Guzman-Rose,1,2.0000,408.15
+"Hoffman Ltd",1,10.0000,NULL
+"Shah, Aguirre and Powers",1,5.0000,NULL
+"Stafford, Fisher and Avila",1,6.0000,NULL
+Li-Gonzalez,1,9.0000,NULL
+"Lang Group",1,10.0000,NULL
+"Mooney Group",1,5.0000,NULL
+"Martinez and Sons",1,4.0000,NULL
+"Murphy, Reyes and Ray",1,6.0000,NULL
+Smith-Logan,1,10.0000,NULL
+"Travis, Buck and Mitchell",1,8.0000,NULL
+Johnson-Ferguson,1,4.0000,509.81
+"Williams, Newman and Jones",1,5.0000,939.16
+"Gallegos Group",1,4.0000,NULL
+"Turner, Stewart and Reed",1,8.0000,NULL
+"Hawkins LLC",1,3.0000,983.79
+Salazar-Long,1,3.0000,NULL
+"Riggs, Snyder and Davidson",1,6.0000,845.93
+"Cameron PLC",1,8.0000,266.19
+"Taylor LLC",1,9.0000,624.58
+"Ramsey, Perez and Miller",1,6.0000,NULL
+"Barrera, Wood and Leach",1,4.0000,743.38
+"Villa Inc",1,10.0000,NULL
+Ware-Williams,1,6.0000,NULL
+"Valentine Inc",1,4.0000,812.32
+Murphy-Salazar,1,2.0000,NULL
+Nelson-Jackson,1,8.0000,502.14
+"Silva Inc",1,9.0000,NULL
+"Flores and Sons",1,10.0000,NULL
+"Barron, Church and Gutierrez",1,6.0000,152.73
+Barnett-Boyd,1,3.0000,NULL
+"Lane Ltd",1,2.0000,435.56
+Bray-Morris,1,2.0000,806.97
+"Webb, Davis and Miranda",1,9.0000,304.36
+"Miller, Hansen and Salas",1,3.0000,NULL
+"Holland, Foley and Neal",1,8.0000,NULL
+"Bonilla Inc",1,10.0000,NULL
+Cardenas-Lopez,1,3.0000,NULL
+"Palmer, Edwards and Blackburn",1,7.0000,NULL
+"Gibson, Moore and Wagner",1,6.0000,NULL
+"Robinson LLC",1,2.0000,NULL
+Hester-Parrish,1,6.0000,NULL
+"Harris, Ross and Jones",1,9.0000,NULL
+Martin-Parker,1,9.0000,NULL
+"Wong, Thomas and Walter",1,7.0000,NULL
+"Rodriguez, Smith and Murray",1,3.0000,380.45
+Johnson-Stanley,1,10.0000,NULL
+Bell-Wilson,1,2.0000,NULL
+"Miller, Reynolds and Hernandez",1,8.0000,NULL
+"Jordan, Cook and Alexander",1,10.0000,995.11
+Davis-Wong,1,4.0000,851.58
+"Reilly, Lee and Lopez",1,7.0000,NULL
+"Wheeler PLC",1,2.0000,988.10
+"Snyder, Hamilton and Maldonado",1,2.0000,NULL
+"Wright, Rodriguez and Wilson",1,6.0000,NULL
+"Johnston and Sons",1,4.0000,NULL
+"Patel LLC",1,4.0000,NULL
+"Andrade Ltd",1,4.0000,NULL
+"Sullivan, Long and Robinson",1,2.0000,NULL
+"Adams, Harris and Floyd",1,2.0000,NULL
+Walsh-Mccarthy,1,3.0000,251.00
+Gross-Davis,1,10.0000,NULL
+"Velez, Howell and Stevenson",1,6.0000,NULL
+"Allen, Edwards and Jones",1,5.0000,689.55
+"Cook Group",1,10.0000,NULL
+"Rivers Ltd",1,4.0000,NULL
+Patterson-Smith,1,6.0000,NULL
+Ibarra-Jackson,1,5.0000,NULL
+"Wheeler Group",1,6.0000,NULL
+"Smith, Marks and Kennedy",1,7.0000,NULL
+"Fuentes PLC",1,2.0000,NULL
+"Mooney, Conley and Fox",1,7.0000,NULL
+"Fischer Inc",1,4.0000,NULL
+Chavez-Navarro,1,3.0000,NULL
+"Scott, Tucker and Diaz",1,7.0000,NULL
+"Carey LLC",1,10.0000,NULL
+"Cook, Holmes and Beck",1,10.0000,NULL
+"Washington, Nelson and Stone",1,5.0000,NULL
+"Smith, Irwin and Chase",1,4.0000,NULL
+"Mcknight, Howard and Johnson",1,5.0000,NULL
+"Figueroa, Mcpherson and Howard",1,3.0000,NULL
+"Davis, Knapp and Gray",1,5.0000,NULL
+"Sheppard Ltd",1,5.0000,NULL
+"Gardner, Gaines and Archer",1,7.0000,NULL
+"Thompson, Lozano and Bailey",1,8.0000,NULL
+Myers-Butler,1,2.0000,NULL
+Parker-Williams,1,6.0000,NULL
+"Miles, Flowers and Martinez",1,8.0000,NULL
+Knight-Sparks,1,3.0000,882.88
+Roberts-Montes,1,10.0000,NULL
+Ho-Thomas,1,5.0000,NULL
+"Hernandez, Levy and Hanson",1,2.0000,NULL
+"Martin, Tucker and Brown",1,6.0000,304.67
+Smith-Williams,1,10.0000,NULL
+Petersen-Martinez,1,5.0000,NULL
+Torres-Jordan,1,4.0000,133.32
+"Flowers, Williams and Taylor",1,5.0000,NULL
+Glover-Shaw,1,7.0000,NULL
+"Moore, Miller and Nelson",1,6.0000,NULL
+"Gonzalez, Richards and Miller",1,6.0000,NULL
+"Cain Ltd",1,6.0000,286.43
+Henderson-Rasmussen,1,3.0000,NULL
+"Orozco LLC",1,10.0000,NULL
+"Collins, Elliott and Shelton",1,5.0000,NULL
+Brock-Taylor,1,4.0000,NULL
+"Wright Group",1,7.0000,NULL
+"Gonzalez, Torres and Evans",1,9.0000,NULL
+"Murray, White and Patton",1,4.0000,NULL
+Davis-Rose,1,4.0000,842.97
+"Edwards, Donovan and Marquez",1,4.0000,NULL
+Gomez-Owens,1,3.0000,290.81
+Murray-Gaines,1,3.0000,540.09
+"Bernard Group",1,2.0000,940.73
+"Campos PLC",1,4.0000,NULL
+Buchanan-Carpenter,1,3.0000,NULL
+Martinez-Daniels,1,5.0000,NULL
+"Rich, Brown and Bruce",1,4.0000,NULL
+"Powell Inc",1,2.0000,NULL
+Aguirre-Golden,1,3.0000,402.86
+Combs-Miller,1,3.0000,NULL
+Gallegos-Santos,1,2.0000,NULL
+Wheeler-Short,1,6.0000,NULL
+"Olson, Rivera and Brown",1,9.0000,NULL
+"Richards, Dixon and Love",1,7.0000,299.60
+"Harris, Thomas and Yang",1,3.0000,NULL
+Taylor-Jacobson,1,10.0000,234.67
+"Phelps, Turner and Collins",1,4.0000,NULL
+"Shaffer PLC",1,7.0000,NULL
+"Gonzalez, Jones and Hernandez",1,6.0000,NULL
+"Meyer and Sons",1,4.0000,NULL
+"Wallace, Brown and Martinez",1,4.0000,NULL
+Webb-White,1,8.0000,NULL
+"Skinner PLC",3,8.0000,1654.27
+Underwood-Maldonado,1,8.0000,NULL
+"Williamson, Reynolds and Fields",1,9.0000,948.67
+"Thomas Ltd",1,3.0000,NULL
+"Allen, Hunt and Lyons",1,5.0000,NULL
+"Alvarez LLC",1,5.0000,NULL
+Contreras-Haley,1,3.0000,NULL
+Richardson-Hill,1,6.0000,NULL
+Wolfe-Rodriguez,1,8.0000,NULL
+Li-Hernandez,1,4.0000,NULL
+Bryant-Elliott,1,2.0000,NULL
+"Carpenter Inc",1,3.0000,NULL
+"Santos, Sandoval and Wallace",1,4.0000,NULL
+Estes-Mcdonald,1,2.0000,NULL
+"Ellis, Smith and Moore",1,9.0000,NULL
+"Foley, Gordon and Bailey",1,9.0000,888.30
+"Warren, Palmer and Thompson",1,6.0000,NULL
+"Bell Ltd",1,4.0000,NULL
+"Morgan, Espinoza and Buchanan",1,9.0000,NULL
+Glover-Barrett,1,10.0000,NULL
+Jones-Franco,1,6.0000,NULL
+Bennett-Ruiz,1,5.0000,744.11
+"White, Erickson and Hunter",1,4.0000,NULL
+"Fox, Anderson and Nguyen",1,9.0000,NULL
+"Bailey, Williamson and Powell",1,8.0000,NULL
+"Hall Ltd",1,7.0000,NULL
+Morris-Hall,1,5.0000,NULL
+"Flynn, Garcia and Gilmore",1,5.0000,NULL
+"Stafford, Campos and Fisher",1,2.0000,444.00
+"Welch, Johnson and Thompson",1,8.0000,NULL
+"Hale Group",1,2.0000,NULL
+"Zhang PLC",2,6.0000,914.71
+"Gonzalez, King and Kim",2,3.0000,1022.91
+Perez-Harmon,1,4.0000,936.33
+Cervantes-Stokes,1,10.0000,NULL
+"Moyer, Davis and Johnson",1,2.0000,NULL
+"Barry LLC",1,3.0000,NULL
+Carroll-Lin,1,3.0000,NULL
+Lopez-Blair,1,10.0000,299.65
+"May, Crawford and Collier",1,4.0000,NULL
+"Carey, Mason and Kelly",1,7.0000,NULL
+"Castaneda, Solis and Gonzales",1,6.0000,729.53
+"Bennett, Jones and Miller",1,4.0000,NULL
+"Evans, Wilson and Hall",1,6.0000,131.38
+"Fernandez, Johnson and Nicholson",1,9.0000,NULL
+Nielsen-King,1,7.0000,NULL
+"Howard, Brennan and Moore",1,6.0000,NULL
+Jones-Johnston,1,5.0000,NULL
+"Frederick, Porter and Ross",1,6.0000,NULL
+"Gardner Inc",1,5.0000,900.67
+"Ruiz, Lowery and Baker",2,9.0000,1542.34
+"Johnson Group",1,3.0000,NULL
+Gonzalez-Barron,1,8.0000,694.68
+"Taylor PLC",1,7.0000,410.81
+"Rivera, Todd and Gaines",1,3.0000,NULL
+"Young Inc",1,9.0000,NULL
+"Strong, Warner and Cannon",1,2.0000,523.04
+"Reed Inc",1,8.0000,NULL
+George-Salazar,1,8.0000,NULL
+"Clay Group",1,4.0000,892.99
+"Johnson PLC",2,5.5000,369.18
+"Santos Group",1,7.0000,NULL
+Turner-Horn,1,8.0000,NULL
+"Smith Inc",1,8.0000,NULL
+"Ayala and Sons",1,10.0000,NULL
+"Franklin, Gray and Sutton",1,4.0000,NULL
+"Tran Inc",1,2.0000,NULL
+Cannon-Dominguez,1,7.0000,NULL
+Miles-Dunn,1,2.0000,563.23
+"Kim PLC",1,3.0000,NULL
+Bell-Cooper,1,8.0000,NULL
+"Smith, Gutierrez and Goodwin",1,2.0000,NULL
+"Bradley, Ritter and Smith",1,10.0000,NULL
+"Wright, Brown and Brown",1,8.0000,NULL
+White-Williams,1,8.0000,NULL
+Morrison-Zamora,1,9.0000,NULL
+Anderson-Sanders,2,4.0000,1030.63
+"Martinez, Jones and Wright",1,6.0000,NULL
+"Harris, Thornton and Li",1,3.0000,NULL
+"Wallace LLC",1,8.0000,NULL
+Deleon-Carter,1,10.0000,NULL
+"Sanchez, Orozco and Flores",2,2.0000,599.17
+"Gordon, Brown and Mccullough",1,5.0000,NULL
+"Sampson, Tucker and Miller",1,5.0000,NULL
+"Torres PLC",1,2.0000,NULL
+"Martinez Ltd",1,6.0000,NULL
+"Johnson and Sons",1,8.0000,605.60
+"Alexander, Duran and Benton",1,10.0000,NULL
+"Porter Inc",1,8.0000,NULL
+Ramirez-Cruz,1,8.0000,NULL
+"Brown PLC",1,4.0000,509.10
+Simpson-Roy,1,5.0000,NULL
+Wallace-Walker,1,3.0000,863.31
+Lopez-Jordan,1,10.0000,NULL
+"Guerrero Inc",1,2.0000,NULL
+"Hines, Pineda and Kent",1,4.0000,NULL
+Livingston-Solomon,1,8.0000,104.55
+"Robinson, Johnson and Swanson",1,7.0000,NULL
+"Hamilton, Patterson and Daniel",1,6.0000,114.65
+"Goodwin, Aguirre and Tran",1,6.0000,NULL
+"Randolph, Mitchell and Ritter",1,2.0000,NULL
+"Ford, Armstrong and Carroll",1,9.0000,NULL
+"Green, Horne and Mcdonald",1,6.0000,NULL
+"Anderson Inc",1,5.0000,NULL
+Marsh-Tapia,1,8.0000,NULL
+"Lutz PLC",1,5.0000,421.97
+Morgan-Foster,1,9.0000,795.16
+"Hill, Adams and King",1,2.0000,935.70
+"Patrick, Franklin and Martinez",1,10.0000,NULL
+"Guerrero, Huff and Abbott",1,3.0000,NULL
+Ford-Gonzales,1,10.0000,NULL
+Johnson-Howard,1,3.0000,NULL
+"Richard, Robinson and Brown",1,3.0000,492.32
+"Hill PLC",1,6.0000,NULL
+"Edwards, Brown and White",1,10.0000,811.10
+Green-Simpson,1,8.0000,NULL
+"Mccoy and Sons",1,4.0000,NULL
+"Douglas, Hall and Pena",1,8.0000,NULL
+"Cohen Group",1,6.0000,NULL
+"Stewart, Tran and Perez",2,8.0000,981.41
+"Braun, Hester and Smith",1,7.0000,NULL
+Fernandez-Williams,1,5.0000,NULL
+"Bailey Inc",1,9.0000,NULL
+"Wallace, Dixon and Young",1,8.0000,NULL
+Hudson-Calderon,1,7.0000,NULL
+"Perry, May and Liu",1,8.0000,NULL
+Rogers-Russell,1,2.0000,NULL
+"Brooks, Dunlap and Carter",1,5.0000,NULL
+"Martin Inc",1,10.0000,NULL
+Conrad-Buck,1,10.0000,NULL
+"Rodriguez and Sons",1,3.0000,NULL
+Dixon-Norman,1,7.0000,NULL
+"Logan, Marquez and Case",1,9.0000,NULL
+Rivas-Johnson,1,9.0000,NULL
+"Hernandez, Farmer and Banks",2,5.0000,1448.67
+"Benjamin and Sons",1,2.0000,NULL
+"Gordon, Andrews and Kelley",1,2.0000,NULL
+Ryan-Martinez,1,3.0000,NULL
+"Yates, Lawson and Hopkins",1,6.0000,NULL
+"Alexander, Adams and Huff",1,3.0000,NULL
+Bartlett-Murphy,1,8.0000,NULL
+Hall-Edwards,1,3.0000,585.19
+"Steele Group",1,2.0000,NULL
+"Rosario, Ortiz and Miller",1,8.0000,946.67
+"Wagner, Melendez and Valdez",1,10.0000,NULL
+"Hall, Hartman and Hall",1,2.0000,NULL
+"Frost and Sons",1,6.0000,NULL
+Craig-Wade,1,6.0000,NULL
+"Green, Mitchell and Edwards",1,9.0000,NULL
+"Ortiz PLC",1,8.0000,NULL
+"Johnston Ltd",1,10.0000,NULL
+"Yoder Group",1,6.0000,899.29
+Cannon-Dawson,1,10.0000,NULL
+Newton-Martinez,1,3.0000,NULL
+"Bass Inc",1,5.0000,NULL
+"Jackson, Jones and Robertson",1,7.0000,569.75
+"Sellers, Strong and Gomez",1,7.0000,NULL
+Terry-Allen,1,10.0000,NULL
+Wilson-Merritt,1,8.0000,NULL
+Vargas-Jensen,1,5.0000,NULL
+"Williams, Rodgers and Kelly",1,3.0000,NULL
+Lozano-Mccoy,1,5.0000,NULL
+"Davenport, Roberts and Woods",1,9.0000,NULL
+"Quinn Ltd",1,3.0000,NULL
+"Hendricks, Zuniga and Miller",1,4.0000,NULL
+"Watkins LLC",1,2.0000,NULL
+"Banks, Gray and Gonzales",1,8.0000,NULL
+"Sharp, Ramirez and Mejia",1,8.0000,NULL
+"Evans LLC",1,9.0000,NULL
+"Elliott PLC",1,5.0000,NULL
+"Romero, Reilly and Mitchell",1,6.0000,NULL
+Flores-White,1,5.0000,NULL
+"Williams Ltd",1,8.0000,NULL
+"Clark, Stone and Andrews",1,9.0000,273.06
+"Edwards, Reed and Martin",1,6.0000,NULL
+Hill-Gonzales,1,3.0000,NULL
+"Roberts LLC",1,9.0000,NULL
+"Molina, Middleton and Estrada",1,4.0000,NULL
+"Davis PLC",1,7.0000,831.70
+"Fischer, Johnson and Orr",1,8.0000,542.83
+"Medina, Lee and Freeman",1,3.0000,NULL
+"Wood LLC",1,7.0000,NULL
+"Simmons, Wallace and Martinez",1,9.0000,NULL
+Phillips-Rodriguez,1,6.0000,733.87
+"Calhoun, Wilson and Oneal",1,3.0000,NULL
+Baker-Lin,1,9.0000,966.27

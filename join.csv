@@ -1,0 +1,1001 @@
+shipment_id,origin_warehouse,destination_city,delivery_status,claim_id,claim_status,amount_claimed
+S00001,W005,Brookefort,Delayed,NULL,NULL,NULL
+S00002,W001,"South Sherriburgh","In Transit",NULL,NULL,NULL
+S00003,W008,Mooreville,Lost,NULL,NULL,NULL
+S00004,W008,"East Robert","In Transit",NULL,NULL,NULL
+S00005,W006,Donnaport,Lost,C00288,Rejected,330.78
+S00006,W002,"North Philipside",Delayed,NULL,NULL,NULL
+S00007,W007,"North Michael",Delayed,NULL,NULL,NULL
+S00008,W001,"West Madisonfort","In Transit",C00160,Rejected,122.30
+S00009,W008,"North Jamieport","In Transit",NULL,NULL,NULL
+S00010,W004,Anthonyport,Delayed,NULL,NULL,NULL
+S00011,W001,Burnsview,Delivered,NULL,NULL,NULL
+S00012,W008,Lopezfurt,"In Transit",NULL,NULL,NULL
+S00013,W004,"South Bradley",Delayed,NULL,NULL,NULL
+S00014,W010,Bakerview,Delayed,NULL,NULL,NULL
+S00015,W002,"East Karenville",Lost,NULL,NULL,NULL
+S00016,W004,Lindseychester,"In Transit",C00180,Rejected,527.13
+S00016,W004,Lindseychester,"In Transit",C00213,Rejected,316.83
+S00017,W007,"New Bruce",Lost,NULL,NULL,NULL
+S00018,W004,Sheppardfort,Delayed,C00006,Pending,980.19
+S00019,W001,"South Kent",Lost,C00273,Approved,157.03
+S00020,W001,"New Ashleyhaven",Delayed,NULL,NULL,NULL
+S00021,W002,"North Stacy","In Transit",NULL,NULL,NULL
+S00022,W001,"East Teresa","In Transit",NULL,NULL,NULL
+S00023,W004,"North Rodney",Delivered,NULL,NULL,NULL
+S00024,W003,Harrisberg,"In Transit",NULL,NULL,NULL
+S00025,W008,Luisland,Delivered,NULL,NULL,NULL
+S00026,W007,Hawkinsside,Delayed,C00075,Pending,815.59
+S00027,W001,Apriltown,Delayed,C00093,Rejected,520.54
+S00027,W001,Apriltown,Delayed,C00122,Approved,507.75
+S00028,W001,Rodriguezberg,Lost,NULL,NULL,NULL
+S00029,W010,"North Annaville",Lost,NULL,NULL,NULL
+S00030,W002,Natalieview,Lost,C00169,Approved,217.77
+S00031,W006,Armstrongfort,Delayed,NULL,NULL,NULL
+S00032,W010,"West Richard",Delivered,NULL,NULL,NULL
+S00033,W009,Williamsmouth,Delivered,C00073,Approved,981.84
+S00034,W003,"North Julie",Delivered,C00046,Pending,152.78
+S00035,W008,Andrewport,Lost,NULL,NULL,NULL
+S00036,W006,Meganville,Delivered,NULL,NULL,NULL
+S00037,W005,"West Terri",Delayed,C00296,Pending,399.06
+S00038,W008,Josephchester,"In Transit",NULL,NULL,NULL
+S00039,W009,"East Scottchester",Lost,C00001,Rejected,338.78
+S00039,W009,"East Scottchester",Lost,C00077,Approved,774.12
+S00040,W002,Malonestad,Delivered,C00054,Rejected,123.98
+S00041,W003,"North Larry",Delayed,NULL,NULL,NULL
+S00042,W002,Taylorhaven,Delayed,NULL,NULL,NULL
+S00043,W009,"East Jamesborough",Delivered,NULL,NULL,NULL
+S00044,W009,"North Stephen",Delivered,C00057,Rejected,565.17
+S00045,W001,"West Micheal",Delayed,C00113,Pending,306.40
+S00046,W004,Reidville,"In Transit",NULL,NULL,NULL
+S00047,W006,"East Nathanmouth",Lost,NULL,NULL,NULL
+S00048,W009,Matthewsstad,Delayed,NULL,NULL,NULL
+S00049,W003,"Port Patricia",Lost,C00192,Approved,708.24
+S00050,W006,"West Anthonyton",Delivered,NULL,NULL,NULL
+S00051,W005,"Port Jeffrey",Lost,NULL,NULL,NULL
+S00052,W009,"West Denise",Delivered,NULL,NULL,NULL
+S00053,W003,"Port Kimberlytown",Delivered,NULL,NULL,NULL
+S00054,W006,"Lake Glen","In Transit",NULL,NULL,NULL
+S00055,W004,"West Charlene","In Transit",NULL,NULL,NULL
+S00056,W006,Rodneyfurt,"In Transit",C00061,Approved,741.36
+S00057,W003,Kingmouth,Lost,NULL,NULL,NULL
+S00058,W007,Silvatown,Delivered,NULL,NULL,NULL
+S00059,W006,Annaport,Lost,NULL,NULL,NULL
+S00060,W009,"South Calebview",Delivered,NULL,NULL,NULL
+S00061,W005,Michelleview,Delivered,C00053,Rejected,817.53
+S00062,W008,Jacobhaven,Lost,NULL,NULL,NULL
+S00063,W001,"North Linda","In Transit",C00217,Approved,993.89
+S00064,W001,Guerreroberg,"In Transit",NULL,NULL,NULL
+S00065,W002,"Lake Tylerport",Lost,NULL,NULL,NULL
+S00066,W010,Sullivanton,"In Transit",NULL,NULL,NULL
+S00067,W002,"West Jessica",Lost,C00049,Rejected,498.53
+S00067,W002,"West Jessica",Lost,C00123,Rejected,110.45
+S00068,W002,Knoxstad,Lost,NULL,NULL,NULL
+S00069,W010,Meganside,"In Transit",C00177,Pending,124.97
+S00070,W003,Connorberg,"In Transit",NULL,NULL,NULL
+S00071,W005,Jessicaside,Delayed,NULL,NULL,NULL
+S00072,W009,"Lake Rachel",Delayed,NULL,NULL,NULL
+S00073,W007,"East Michaelport",Delayed,C00287,Rejected,634.28
+S00074,W007,Nathanshire,Lost,NULL,NULL,NULL
+S00075,W003,Yorkfort,Delivered,NULL,NULL,NULL
+S00076,W009,"South Pamelahaven",Delivered,NULL,NULL,NULL
+S00077,W002,Morenochester,Delayed,NULL,NULL,NULL
+S00078,W007,"East Victoria","In Transit",C00185,Pending,757.40
+S00079,W003,Benitezmouth,"In Transit",NULL,NULL,NULL
+S00080,W008,Michelleburgh,Lost,NULL,NULL,NULL
+S00081,W009,"South Marvinburgh","In Transit",C00071,Rejected,626.63
+S00082,W003,"North Shannonborough",Delivered,NULL,NULL,NULL
+S00083,W008,"New Kathy",Lost,NULL,NULL,NULL
+S00084,W007,"East Christinachester",Delayed,NULL,NULL,NULL
+S00085,W001,Sanfordfurt,Delivered,NULL,NULL,NULL
+S00086,W002,"New Jamesstad",Delivered,NULL,NULL,NULL
+S00087,W005,Katherinehaven,Lost,NULL,NULL,NULL
+S00088,W010,"Lake Adambury",Delivered,NULL,NULL,NULL
+S00089,W003,Larryville,Delivered,NULL,NULL,NULL
+S00090,W003,Garyton,Delivered,NULL,NULL,NULL
+S00091,W006,Stephenhaven,Delivered,NULL,NULL,NULL
+S00092,W002,Ryanberg,Lost,C00131,Pending,166.47
+S00093,W002,Howardborough,"In Transit",NULL,NULL,NULL
+S00094,W005,Smithbury,"In Transit",C00282,Pending,616.92
+S00095,W002,"East Jessica","In Transit",NULL,NULL,NULL
+S00096,W001,"North Michael",Lost,NULL,NULL,NULL
+S00097,W008,"South Nancyview",Delivered,NULL,NULL,NULL
+S00098,W003,"New Virginiaville",Lost,NULL,NULL,NULL
+S00099,W009,"North Hannahchester",Delivered,C00265,Rejected,352.30
+S00100,W002,Martinezview,Lost,C00145,Approved,171.66
+S00101,W003,"East Heather",Delivered,NULL,NULL,NULL
+S00102,W006,"West Robertville","In Transit",NULL,NULL,NULL
+S00103,W006,Cindyberg,Lost,C00026,Rejected,356.01
+S00104,W002,"New Jenniferville",Delivered,NULL,NULL,NULL
+S00105,W004,"Port Danielborough",Delivered,C00086,Pending,917.27
+S00105,W004,"Port Danielborough",Delivered,C00124,Approved,228.11
+S00106,W002,"Port Jose",Delivered,NULL,NULL,NULL
+S00107,W008,"West Jade","In Transit",NULL,NULL,NULL
+S00108,W009,"North Amy",Lost,C00019,Pending,921.96
+S00109,W001,Riveratown,"In Transit",NULL,NULL,NULL
+S00110,W002,"North Maryfort",Lost,C00118,Rejected,622.93
+S00111,W004,"Port Williamville",Delayed,NULL,NULL,NULL
+S00112,W003,"South Vanessa",Lost,C00172,Rejected,669.36
+S00113,W009,Stevenville,Delayed,C00008,Pending,159.77
+S00114,W010,"Port Kellymouth",Lost,C00152,Rejected,652.33
+S00115,W005,"North Melissaton",Delivered,NULL,NULL,NULL
+S00116,W002,"Lake Deborah",Lost,NULL,NULL,NULL
+S00117,W010,Patriciaview,Delivered,NULL,NULL,NULL
+S00118,W003,"West Lisaburgh","In Transit",C00018,Approved,204.34
+S00119,W004,Rossmouth,Delayed,C00016,Rejected,241.66
+S00120,W002,Vaughnfort,Lost,NULL,NULL,NULL
+S00121,W005,"North David",Delivered,NULL,NULL,NULL
+S00122,W008,"Port Erikchester",Delayed,C00035,Approved,347.92
+S00123,W005,Phammouth,"In Transit",NULL,NULL,NULL
+S00124,W007,Maxwelltown,"In Transit",NULL,NULL,NULL
+S00125,W006,"South Samantha",Lost,NULL,NULL,NULL
+S00126,W002,Alexanderland,Delayed,NULL,NULL,NULL
+S00127,W002,Alexanderhaven,Delivered,NULL,NULL,NULL
+S00128,W010,"Lake Morgan","In Transit",NULL,NULL,NULL
+S00129,W004,"South Dorothybury","In Transit",NULL,NULL,NULL
+S00130,W007,Elizabethfurt,Lost,C00257,Pending,948.94
+S00130,W007,Elizabethfurt,Lost,C00272,Pending,547.25
+S00131,W005,"North Dawnburgh",Lost,C00190,Rejected,704.57
+S00132,W006,Christianburgh,Delivered,NULL,NULL,NULL
+S00133,W008,Floresmouth,"In Transit",NULL,NULL,NULL
+S00134,W002,"New Jeffreyfurt",Delayed,NULL,NULL,NULL
+S00135,W003,"North Stephen",Delivered,C00292,Approved,351.13
+S00136,W002,Millerfort,Delayed,C00222,Rejected,848.48
+S00137,W007,Davidfort,"In Transit",NULL,NULL,NULL
+S00138,W002,"North Richardton",Delivered,NULL,NULL,NULL
+S00139,W008,"Port Christopherport",Lost,C00184,Pending,813.28
+S00140,W009,"Lake Emily",Delivered,NULL,NULL,NULL
+S00141,W009,Marciabury,Delayed,NULL,NULL,NULL
+S00142,W002,Annfort,Lost,NULL,NULL,NULL
+S00143,W008,Jenniferville,Delivered,NULL,NULL,NULL
+S00144,W005,"North Matthew","In Transit",C00195,Rejected,238.75
+S00145,W007,Amystad,Delayed,C00039,Approved,937.17
+S00145,W007,Amystad,Delayed,C00267,Rejected,400.84
+S00146,W008,"North Pennyfort",Lost,NULL,NULL,NULL
+S00147,W008,Rodriguezborough,Lost,NULL,NULL,NULL
+S00148,W005,"Port Philipmouth",Delayed,NULL,NULL,NULL
+S00149,W006,"Lake Matthew",Lost,NULL,NULL,NULL
+S00150,W001,Williamsshire,Delayed,NULL,NULL,NULL
+S00151,W010,Ellisshire,Lost,C00214,Rejected,964.31
+S00152,W002,"South Adam",Delayed,NULL,NULL,NULL
+S00153,W001,"New Savannahshire",Lost,NULL,NULL,NULL
+S00154,W010,"Lake Beth","In Transit",NULL,NULL,NULL
+S00155,W002,"North Paul",Lost,NULL,NULL,NULL
+S00156,W001,Williamfurt,Lost,NULL,NULL,NULL
+S00157,W007,"West Raymond","In Transit",NULL,NULL,NULL
+S00158,W001,Shawnberg,Delayed,NULL,NULL,NULL
+S00159,W010,Morrisonhaven,Lost,NULL,NULL,NULL
+S00160,W004,Jenniferside,"In Transit",NULL,NULL,NULL
+S00161,W006,"East Jason",Lost,NULL,NULL,NULL
+S00162,W007,Glendaberg,Delivered,NULL,NULL,NULL
+S00163,W002,"New Amy",Delayed,NULL,NULL,NULL
+S00164,W005,Jenniferstad,"In Transit",NULL,NULL,NULL
+S00165,W002,Aguilarchester,Lost,C00174,Pending,206.57
+S00166,W010,Nataliechester,"In Transit",NULL,NULL,NULL
+S00167,W002,"North Oscarton",Lost,NULL,NULL,NULL
+S00168,W009,"East Josephburgh",Delayed,NULL,NULL,NULL
+S00169,W010,Dwayneton,Delivered,NULL,NULL,NULL
+S00170,W003,Jamesside,Delivered,NULL,NULL,NULL
+S00171,W003,Lisaville,"In Transit",NULL,NULL,NULL
+S00172,W008,"Lake Deborah",Delayed,C00010,Pending,697.61
+S00173,W007,"New Kristen",Delayed,NULL,NULL,NULL
+S00174,W003,Heatherton,"In Transit",NULL,NULL,NULL
+S00175,W007,Butlermouth,Lost,NULL,NULL,NULL
+S00176,W007,"North Juliaborough",Lost,C00275,Approved,844.55
+S00177,W010,Greerstad,Delayed,NULL,NULL,NULL
+S00178,W004,"Port Jenny","In Transit",NULL,NULL,NULL
+S00179,W009,Shaneland,Lost,NULL,NULL,NULL
+S00180,W004,"Lake Willie","In Transit",C00064,Pending,733.66
+S00181,W005,"South Joshuaview","In Transit",NULL,NULL,NULL
+S00182,W008,"New Meghan",Lost,C00116,Rejected,355.71
+S00182,W008,"New Meghan",Lost,C00276,Rejected,927.59
+S00183,W005,Stevenberg,Lost,C00283,Pending,897.32
+S00184,W002,"West Candice","In Transit",C00162,Approved,363.99
+S00185,W010,Tracyshire,"In Transit",NULL,NULL,NULL
+S00186,W010,Charlesmouth,Delivered,C00175,Approved,485.36
+S00187,W004,"East Abigail",Lost,C00119,Rejected,676.00
+S00188,W010,"South Amy",Delivered,NULL,NULL,NULL
+S00189,W007,"West Jeffreyborough",Lost,NULL,NULL,NULL
+S00190,W005,Markport,"In Transit",C00147,Approved,663.93
+S00191,W001,Barajastown,"In Transit",NULL,NULL,NULL
+S00192,W002,Seanbury,Lost,C00135,Approved,139.41
+S00193,W004,Patrickville,Lost,NULL,NULL,NULL
+S00194,W006,Amberport,Delivered,NULL,NULL,NULL
+S00195,W010,Williehaven,Delivered,NULL,NULL,NULL
+S00196,W001,Williamsborough,Delivered,NULL,NULL,NULL
+S00197,W006,"North Garyside",Delivered,NULL,NULL,NULL
+S00198,W007,"Lake Cameronborough",Delivered,C00012,Pending,650.87
+S00199,W004,Houstonborough,Delivered,NULL,NULL,NULL
+S00200,W006,Lucasland,Delivered,C00238,Rejected,378.40
+S00201,W008,"North Stephen","In Transit",C00060,Pending,467.73
+S00202,W006,"North Charlesburgh",Delayed,NULL,NULL,NULL
+S00203,W009,"New Lorraineview","In Transit",NULL,NULL,NULL
+S00204,W009,Hayesfurt,Delayed,C00011,Rejected,349.47
+S00204,W009,Hayesfurt,Delayed,C00084,Rejected,631.29
+S00205,W001,Andreville,"In Transit",NULL,NULL,NULL
+S00206,W003,"Lake Jenniferland",Lost,NULL,NULL,NULL
+S00207,W006,"Lake Melaniestad",Delivered,NULL,NULL,NULL
+S00208,W003,"West Kristinport","In Transit",NULL,NULL,NULL
+S00209,W003,"West Kathymouth",Delivered,C00186,Approved,305.93
+S00210,W006,Shorttown,Delayed,NULL,NULL,NULL
+S00211,W003,"New Jeffrey",Delayed,NULL,NULL,NULL
+S00212,W001,Roblesside,"In Transit",NULL,NULL,NULL
+S00213,W002,"West Erica",Delayed,NULL,NULL,NULL
+S00214,W003,Susantown,Lost,NULL,NULL,NULL
+S00215,W005,"North Bobby",Delayed,NULL,NULL,NULL
+S00216,W010,Medinaland,Lost,C00226,Rejected,565.37
+S00217,W008,"Lake Judith",Delayed,NULL,NULL,NULL
+S00218,W004,Jasonhaven,Lost,NULL,NULL,NULL
+S00219,W007,"East Jeffrey","In Transit",C00134,Pending,747.74
+S00220,W005,"North Howard",Lost,NULL,NULL,NULL
+S00221,W003,"Port Karenside","In Transit",NULL,NULL,NULL
+S00222,W008,"West Emilyview",Lost,C00087,Pending,357.99
+S00223,W008,"Lake Beverly",Delayed,NULL,NULL,NULL
+S00224,W006,Davidbury,Delivered,NULL,NULL,NULL
+S00225,W007,Christineborough,Lost,NULL,NULL,NULL
+S00226,W001,Hayesport,"In Transit",NULL,NULL,NULL
+S00227,W010,"New Ashley","In Transit",NULL,NULL,NULL
+S00228,W007,Jacksonmouth,"In Transit",NULL,NULL,NULL
+S00229,W009,"Lake Jodi",Lost,NULL,NULL,NULL
+S00230,W009,Maryberg,Delayed,NULL,NULL,NULL
+S00231,W006,Nataliemouth,Delivered,NULL,NULL,NULL
+S00232,W006,Kimfort,"In Transit",NULL,NULL,NULL
+S00233,W005,"East Debbieland",Delivered,C00290,Rejected,817.70
+S00234,W005,"New James",Lost,C00187,Rejected,411.15
+S00235,W003,"Lake Charlestown",Lost,NULL,NULL,NULL
+S00236,W003,"Port Bonniefurt",Delayed,NULL,NULL,NULL
+S00237,W001,"North Andrea","In Transit",NULL,NULL,NULL
+S00238,W001,Valdezberg,Delayed,NULL,NULL,NULL
+S00239,W007,Walkershire,Delayed,C00220,Rejected,829.20
+S00240,W009,Dennishaven,"In Transit",NULL,NULL,NULL
+S00241,W003,"South Michaeltown",Delivered,C00097,Rejected,715.91
+S00242,W005,"Port Tamara",Delivered,C00078,Rejected,838.49
+S00243,W010,"Port Willie","In Transit",NULL,NULL,NULL
+S00244,W010,"East Ashley","In Transit",NULL,NULL,NULL
+S00245,W008,"Lake Jessica","In Transit",NULL,NULL,NULL
+S00246,W002,"East Kathleenbury",Lost,NULL,NULL,NULL
+S00247,W002,Miketon,Delivered,C00279,Approved,222.62
+S00248,W008,"New Rebecca",Delivered,NULL,NULL,NULL
+S00249,W001,Harrisonmouth,Lost,C00198,Rejected,680.56
+S00250,W008,"Lake Mariohaven",Delayed,NULL,NULL,NULL
+S00251,W010,Maryview,Delivered,NULL,NULL,NULL
+S00252,W005,"South Desiree","In Transit",NULL,NULL,NULL
+S00253,W010,"New Johnbury",Delivered,NULL,NULL,NULL
+S00254,W004,Gomezstad,"In Transit",NULL,NULL,NULL
+S00255,W003,Eatontown,Delayed,NULL,NULL,NULL
+S00256,W003,"South Gabriel","In Transit",NULL,NULL,NULL
+S00257,W005,Jasonburgh,Delivered,NULL,NULL,NULL
+S00258,W006,Carolynville,Delayed,C00051,Pending,857.42
+S00259,W007,"South Lisa",Lost,NULL,NULL,NULL
+S00260,W002,"South Emmafort",Delayed,NULL,NULL,NULL
+S00261,W007,"Lake Martha","In Transit",C00209,Approved,925.11
+S00262,W008,"North David",Lost,NULL,NULL,NULL
+S00263,W008,"East Crystal",Delivered,NULL,NULL,NULL
+S00264,W005,"North Gabriel",Delivered,NULL,NULL,NULL
+S00265,W008,Greeneshire,Delayed,NULL,NULL,NULL
+S00266,W005,"Lake Jessicaport",Lost,C00106,Approved,476.91
+S00267,W001,"South Catherine",Lost,NULL,NULL,NULL
+S00268,W009,Jacksonchester,Lost,NULL,NULL,NULL
+S00269,W010,"Port Brandi",Lost,C00210,Rejected,148.14
+S00270,W009,"New Donna",Lost,NULL,NULL,NULL
+S00271,W003,"Lake Gina",Lost,NULL,NULL,NULL
+S00272,W005,"East Nicholasberg",Delayed,NULL,NULL,NULL
+S00273,W008,"East Alexandrahaven","In Transit",C00127,Rejected,579.43
+S00273,W008,"East Alexandrahaven","In Transit",C00269,Rejected,194.71
+S00274,W002,Serranoville,Lost,NULL,NULL,NULL
+S00275,W001,Valenzuelaton,"In Transit",NULL,NULL,NULL
+S00276,W008,"North Timothyberg","In Transit",C00248,Rejected,137.76
+S00277,W010,"Port Erikachester",Delivered,NULL,NULL,NULL
+S00278,W010,Woodton,Delayed,NULL,NULL,NULL
+S00279,W007,Perezfort,Delayed,NULL,NULL,NULL
+S00280,W004,Bellshire,Delayed,NULL,NULL,NULL
+S00281,W001,Andersonfort,Delayed,C00140,Approved,808.93
+S00282,W004,"Port Christopher",Lost,NULL,NULL,NULL
+S00283,W005,Scotttown,Lost,C00237,Rejected,804.73
+S00284,W002,"New Alexandrahaven",Lost,NULL,NULL,NULL
+S00285,W008,Penamouth,Delivered,C00041,Rejected,249.72
+S00286,W004,Danielchester,Delivered,NULL,NULL,NULL
+S00287,W001,Joseside,Delivered,NULL,NULL,NULL
+S00288,W007,Cherylfurt,Lost,C00178,Rejected,183.07
+S00289,W009,"South Andrea","In Transit",NULL,NULL,NULL
+S00290,W009,Whiteside,Lost,NULL,NULL,NULL
+S00291,W001,Kingport,Delivered,NULL,NULL,NULL
+S00292,W005,Kimfurt,Delayed,NULL,NULL,NULL
+S00293,W006,"Port Michelle",Delayed,C00196,Rejected,713.95
+S00294,W005,"South Krista",Delayed,C00029,Rejected,215.93
+S00295,W009,"East Williammouth",Delivered,NULL,NULL,NULL
+S00296,W010,"East Paultown","In Transit",NULL,NULL,NULL
+S00297,W007,"South Sara",Lost,NULL,NULL,NULL
+S00298,W008,"North Josestad",Lost,NULL,NULL,NULL
+S00299,W002,"Lake Patrickfurt","In Transit",NULL,NULL,NULL
+S00300,W010,Jenniferton,Delivered,NULL,NULL,NULL
+S00301,W008,"Lake Troy",Lost,NULL,NULL,NULL
+S00302,W001,"Port Diane",Delivered,C00250,Rejected,440.13
+S00303,W003,Jameshaven,Lost,NULL,NULL,NULL
+S00304,W002,"New Gavin",Lost,NULL,NULL,NULL
+S00305,W005,Johntown,Delayed,NULL,NULL,NULL
+S00306,W009,"West Kimberlystad",Lost,NULL,NULL,NULL
+S00307,W010,Sullivanborough,Delayed,NULL,NULL,NULL
+S00308,W008,"Lake Janeland","In Transit",NULL,NULL,NULL
+S00309,W010,Jessicaside,Delayed,C00161,Rejected,368.84
+S00310,W003,Michaelview,Delayed,NULL,NULL,NULL
+S00311,W005,"South Sarah",Lost,NULL,NULL,NULL
+S00312,W002,"West Gregoryhaven",Delivered,C00102,Pending,244.64
+S00313,W003,"New Kellyville",Delivered,C00193,Approved,356.69
+S00314,W001,Nancyshire,Lost,NULL,NULL,NULL
+S00315,W003,Churchshire,Lost,NULL,NULL,NULL
+S00316,W007,"Port Matthew",Lost,NULL,NULL,NULL
+S00317,W009,Maldonadoshire,Lost,NULL,NULL,NULL
+S00318,W007,Wilsonland,"In Transit",NULL,NULL,NULL
+S00319,W006,"Lake Jacqueline","In Transit",C00176,Approved,220.90
+S00320,W009,Moseshaven,Delayed,NULL,NULL,NULL
+S00321,W003,"Lake Marilynbury",Delayed,NULL,NULL,NULL
+S00322,W003,"South Emilymouth",Lost,NULL,NULL,NULL
+S00323,W009,"South Lee","In Transit",C00166,Approved,878.66
+S00323,W009,"South Lee","In Transit",C00284,Rejected,484.66
+S00324,W009,Ianborough,Lost,NULL,NULL,NULL
+S00325,W006,"East Jill","In Transit",C00080,Rejected,138.07
+S00326,W003,"East James",Delayed,NULL,NULL,NULL
+S00327,W009,Ericville,Delayed,NULL,NULL,NULL
+S00328,W007,"Lake Stephaniefort",Delivered,NULL,NULL,NULL
+S00329,W006,"Port Mercedeston",Lost,NULL,NULL,NULL
+S00330,W003,Christinefort,"In Transit",NULL,NULL,NULL
+S00331,W009,Travishaven,Delayed,NULL,NULL,NULL
+S00332,W003,Walkershire,Lost,NULL,NULL,NULL
+S00333,W004,"New Laurenfort",Delivered,C00204,Pending,340.09
+S00334,W002,"New Michaelburgh",Lost,NULL,NULL,NULL
+S00335,W006,"Lake Aprilmouth",Lost,C00165,Pending,335.92
+S00336,W008,"North Emilyfurt","In Transit",C00159,Approved,639.54
+S00337,W006,"West Michaelview",Delayed,C00203,Rejected,129.88
+S00338,W009,Joelfort,Lost,NULL,NULL,NULL
+S00339,W010,Michaelfort,Lost,NULL,NULL,NULL
+S00340,W004,"South Jaclyn",Delayed,NULL,NULL,NULL
+S00341,W006,Melissaview,Delayed,NULL,NULL,NULL
+S00342,W007,"New David",Lost,NULL,NULL,NULL
+S00343,W003,"Port Cory",Delivered,NULL,NULL,NULL
+S00344,W009,"New Ryan",Delivered,C00262,Pending,974.36
+S00345,W007,"East Lauren",Lost,NULL,NULL,NULL
+S00346,W008,"South Linda",Delayed,NULL,NULL,NULL
+S00347,W003,Porterhaven,Lost,NULL,NULL,NULL
+S00348,W003,Kristenport,Delayed,NULL,NULL,NULL
+S00349,W008,"South Coreyburgh","In Transit",C00151,Rejected,981.01
+S00349,W008,"South Coreyburgh","In Transit",C00167,Approved,614.09
+S00350,W006,"Port Jonathan",Delayed,NULL,NULL,NULL
+S00351,W006,"South Julieview",Delivered,NULL,NULL,NULL
+S00352,W006,Annview,Delivered,NULL,NULL,NULL
+S00353,W001,"South Davidborough",Delivered,NULL,NULL,NULL
+S00354,W005,"Port Justin",Lost,C00033,Rejected,801.30
+S00355,W008,Hamptonmouth,"In Transit",NULL,NULL,NULL
+S00356,W001,Austinmouth,Delivered,C00173,Pending,932.82
+S00357,W008,"Port Gary",Delivered,NULL,NULL,NULL
+S00358,W010,Welchshire,"In Transit",NULL,NULL,NULL
+S00359,W008,"North Fernandobury",Delivered,NULL,NULL,NULL
+S00360,W006,Deniseview,Delayed,C00155,Pending,163.35
+S00361,W007,Nelsonmouth,Lost,NULL,NULL,NULL
+S00362,W008,Juliehaven,Delayed,NULL,NULL,NULL
+S00363,W001,Jacksontown,"In Transit",NULL,NULL,NULL
+S00364,W009,"Lake Johnathan",Lost,C00115,Rejected,139.62
+S00365,W001,"East Garrettville","In Transit",NULL,NULL,NULL
+S00366,W001,"South Amytown",Delayed,NULL,NULL,NULL
+S00367,W001,Warrenland,Delayed,NULL,NULL,NULL
+S00368,W010,Christineland,Delivered,NULL,NULL,NULL
+S00369,W007,Parkerbury,Delivered,NULL,NULL,NULL
+S00370,W003,Scottberg,Delayed,C00154,Approved,727.29
+S00371,W005,"North Austin","In Transit",C00040,Rejected,531.38
+S00372,W005,Michellemouth,Delayed,C00047,Rejected,960.93
+S00373,W003,Amyberg,Lost,NULL,NULL,NULL
+S00374,W010,"New Carla","In Transit",NULL,NULL,NULL
+S00375,W005,Millsside,Delivered,NULL,NULL,NULL
+S00376,W006,Timothybury,Lost,NULL,NULL,NULL
+S00377,W004,Parkerchester,Delivered,C00249,Rejected,486.91
+S00378,W007,"West Alex","In Transit",C00048,Approved,903.74
+S00378,W007,"West Alex","In Transit",C00189,Pending,953.19
+S00379,W009,"West Justin",Lost,NULL,NULL,NULL
+S00380,W004,"Lake Sandrafort",Lost,NULL,NULL,NULL
+S00381,W002,"Port Russellport",Delayed,C00050,Pending,482.65
+S00382,W003,"Port Adrian",Lost,NULL,NULL,NULL
+S00383,W009,"South Nicole",Delayed,NULL,NULL,NULL
+S00384,W003,Wrightfurt,"In Transit",NULL,NULL,NULL
+S00385,W009,"West Christian",Lost,NULL,NULL,NULL
+S00386,W010,"New Kathy",Delivered,NULL,NULL,NULL
+S00387,W008,Justinside,Lost,NULL,NULL,NULL
+S00388,W007,Lopezland,Delayed,NULL,NULL,NULL
+S00389,W009,"West Daniel",Delivered,C00200,Approved,837.68
+S00389,W009,"West Daniel",Delivered,C00242,Approved,850.68
+S00390,W010,Nelsonfort,"In Transit",C00108,Approved,369.60
+S00391,W002,Andrewton,Delivered,NULL,NULL,NULL
+S00392,W007,"East Teresaport",Delayed,NULL,NULL,NULL
+S00393,W006,"Lake Samuel","In Transit",C00234,Rejected,359.89
+S00394,W008,"North Edward",Lost,NULL,NULL,NULL
+S00395,W006,"West Robert",Delivered,NULL,NULL,NULL
+S00396,W003,Steventon,"In Transit",C00230,Pending,490.57
+S00397,W001,"Port Karenberg","In Transit",NULL,NULL,NULL
+S00398,W008,Kimberlyland,Lost,NULL,NULL,NULL
+S00399,W002,Whiteview,Lost,C00280,Pending,105.62
+S00400,W002,"North Theresabury",Delayed,NULL,NULL,NULL
+S00401,W003,Wrightton,Delayed,NULL,NULL,NULL
+S00402,W004,Mossville,"In Transit",NULL,NULL,NULL
+S00403,W005,"South Paul","In Transit",NULL,NULL,NULL
+S00404,W005,Ericton,Delivered,C00005,Pending,818.82
+S00405,W001,"West Timothyport",Delayed,C00129,Rejected,236.20
+S00406,W004,Paigeborough,Lost,NULL,NULL,NULL
+S00407,W005,"Lake Ryan",Delivered,NULL,NULL,NULL
+S00408,W010,"Port Joshua",Lost,C00015,Rejected,669.96
+S00409,W002,Mccormicktown,"In Transit",NULL,NULL,NULL
+S00410,W009,Barkerberg,Delayed,NULL,NULL,NULL
+S00411,W009,"East Ericland",Delayed,NULL,NULL,NULL
+S00412,W001,Sarahton,"In Transit",NULL,NULL,NULL
+S00413,W001,Deannaside,Delayed,C00266,Pending,492.17
+S00414,W009,"South Jesse",Lost,NULL,NULL,NULL
+S00415,W001,Lindamouth,Delayed,NULL,NULL,NULL
+S00416,W009,"North Hannah",Delivered,NULL,NULL,NULL
+S00417,W006,"West Rachel","In Transit",NULL,NULL,NULL
+S00418,W004,Hansenside,"In Transit",NULL,NULL,NULL
+S00419,W006,Lopezburgh,Delayed,NULL,NULL,NULL
+S00420,W001,Mariomouth,Delayed,C00017,Pending,777.39
+S00421,W006,"North Amanda","In Transit",C00158,Rejected,190.01
+S00422,W006,Loriside,Delivered,NULL,NULL,NULL
+S00423,W002,Smithhaven,Delivered,C00043,Approved,216.99
+S00424,W010,"North Christine",Delivered,C00291,Approved,878.68
+S00424,W010,"North Christine",Delivered,C00293,Rejected,963.40
+S00425,W007,"West Jennifer",Delivered,NULL,NULL,NULL
+S00426,W001,Leefort,Delivered,NULL,NULL,NULL
+S00427,W007,"New Justin",Delivered,NULL,NULL,NULL
+S00428,W001,Danielhaven,"In Transit",NULL,NULL,NULL
+S00429,W007,"North Maryberg",Delivered,NULL,NULL,NULL
+S00430,W008,"East Danielborough",Lost,NULL,NULL,NULL
+S00431,W010,"New Darlenefurt","In Transit",NULL,NULL,NULL
+S00432,W001,Foxshire,Delivered,NULL,NULL,NULL
+S00433,W002,"West Jeffreyland",Delayed,C00148,Rejected,728.99
+S00433,W002,"West Jeffreyland",Delayed,C00244,Pending,182.82
+S00434,W010,"Lake Travis",Delayed,NULL,NULL,NULL
+S00435,W005,Owenton,"In Transit",NULL,NULL,NULL
+S00436,W008,Shortton,Lost,C00074,Approved,379.54
+S00436,W008,Shortton,Lost,C00216,Rejected,896.32
+S00437,W001,Allisonland,Lost,NULL,NULL,NULL
+S00438,W006,"East Susanville",Delayed,NULL,NULL,NULL
+S00439,W003,"New Paul",Delivered,NULL,NULL,NULL
+S00440,W006,"New Colleen",Lost,C00139,Pending,685.26
+S00440,W006,"New Colleen",Lost,C00255,Pending,426.72
+S00441,W003,Reeseshire,"In Transit",NULL,NULL,NULL
+S00442,W009,Parkchester,Delivered,C00023,Rejected,403.58
+S00443,W004,"Port Henry",Delayed,NULL,NULL,NULL
+S00444,W008,Dianeside,"In Transit",NULL,NULL,NULL
+S00445,W010,Mahoneymouth,"In Transit",NULL,NULL,NULL
+S00446,W003,Meganchester,Delivered,C00271,Rejected,102.60
+S00447,W001,Mckenziemouth,Delivered,NULL,NULL,NULL
+S00448,W004,"New Amy",Delivered,C00089,Rejected,289.84
+S00449,W006,Michaelmouth,Lost,C00003,Rejected,715.24
+S00449,W006,Michaelmouth,Lost,C00299,Pending,571.62
+S00450,W001,Smithton,Delivered,NULL,NULL,NULL
+S00451,W009,"New Derekport","In Transit",NULL,NULL,NULL
+S00452,W010,Traceyborough,Delivered,C00207,Rejected,554.64
+S00453,W005,"Port Lynnview","In Transit",NULL,NULL,NULL
+S00454,W006,"North Benjamin","In Transit",C00042,Rejected,488.10
+S00455,W003,"East Joseph","In Transit",C00183,Approved,937.89
+S00456,W003,"East Jonathan",Delivered,NULL,NULL,NULL
+S00457,W004,"New Ricardoborough",Lost,C00091,Approved,160.30
+S00458,W006,"Lake Markfort","In Transit",NULL,NULL,NULL
+S00459,W002,Petersenshire,Delivered,C00058,Pending,233.32
+S00460,W004,Benjaminshire,Delayed,NULL,NULL,NULL
+S00461,W010,"Port Brianmouth",Delivered,C00268,Approved,830.05
+S00462,W010,Butlerville,Delivered,C00197,Approved,911.05
+S00463,W006,"Lake Denise","In Transit",NULL,NULL,NULL
+S00464,W003,"Lake Kimberlyfurt",Delayed,NULL,NULL,NULL
+S00465,W002,Alicemouth,Delivered,NULL,NULL,NULL
+S00466,W009,"West Wayne",Delivered,C00256,Rejected,121.04
+S00467,W006,"North Emily","In Transit",NULL,NULL,NULL
+S00468,W006,Mullinsshire,Delivered,NULL,NULL,NULL
+S00469,W008,"East Ryanfurt",Delivered,C00240,Pending,924.40
+S00470,W010,"West Christopher",Delivered,NULL,NULL,NULL
+S00471,W008,"New Raymondland",Delivered,NULL,NULL,NULL
+S00472,W007,Ayalaberg,Lost,NULL,NULL,NULL
+S00473,W003,"South Anita","In Transit",C00052,Pending,102.46
+S00474,W004,Pearsonborough,Delivered,NULL,NULL,NULL
+S00475,W007,"East Charles",Delayed,NULL,NULL,NULL
+S00476,W008,Morrisshire,Delayed,NULL,NULL,NULL
+S00477,W008,"Lake Robertstad",Delivered,NULL,NULL,NULL
+S00478,W002,"West Melvin",Delayed,NULL,NULL,NULL
+S00479,W002,"Port Kevinstad",Delayed,NULL,NULL,NULL
+S00480,W006,Hansonmouth,"In Transit",C00298,Rejected,292.00
+S00481,W006,"East Gina",Delayed,NULL,NULL,NULL
+S00482,W005,"North Jodibury",Delayed,NULL,NULL,NULL
+S00483,W009,"Port Marissa","In Transit",NULL,NULL,NULL
+S00484,W006,"West Heatherville",Lost,NULL,NULL,NULL
+S00485,W001,Ruizmouth,"In Transit",NULL,NULL,NULL
+S00486,W003,"East Amy",Delivered,NULL,NULL,NULL
+S00487,W004,Anaberg,Lost,NULL,NULL,NULL
+S00488,W009,"South Brandyhaven",Lost,NULL,NULL,NULL
+S00489,W002,Georgeport,"In Transit",NULL,NULL,NULL
+S00490,W007,Briantown,Delayed,NULL,NULL,NULL
+S00491,W001,Guerrerostad,Delayed,NULL,NULL,NULL
+S00492,W005,"West Michellefurt",Delivered,C00088,Pending,323.42
+S00493,W006,Romeroville,Delivered,C00181,Pending,992.47
+S00494,W007,Delacruzside,Lost,NULL,NULL,NULL
+S00495,W010,"East Vincent","In Transit",NULL,NULL,NULL
+S00496,W006,"North Johnhaven",Delivered,NULL,NULL,NULL
+S00497,W002,Tracyburgh,Delivered,NULL,NULL,NULL
+S00498,W006,Gabriellestad,Delivered,NULL,NULL,NULL
+S00499,W002,Joelhaven,Lost,C00263,Pending,361.71
+S00500,W010,"Lake Jonathanfurt",Delivered,C00264,Pending,446.59
+S00501,W007,Jeremiahmouth,Lost,NULL,NULL,NULL
+S00502,W009,"North Jessica","In Transit",C00199,Rejected,127.63
+S00503,W001,"South John",Delayed,NULL,NULL,NULL
+S00504,W002,Wallermouth,Lost,NULL,NULL,NULL
+S00505,W002,"East Denise",Delayed,NULL,NULL,NULL
+S00506,W005,"Port Devin","In Transit",NULL,NULL,NULL
+S00507,W010,"South Wendy","In Transit",NULL,NULL,NULL
+S00508,W008,"Lake Sarah",Lost,C00138,Rejected,335.96
+S00509,W008,Carlosside,Delivered,NULL,NULL,NULL
+S00510,W009,"East Lonnieberg","In Transit",NULL,NULL,NULL
+S00511,W010,"Port Lucaschester",Delivered,NULL,NULL,NULL
+S00512,W008,Scottview,"In Transit",C00225,Pending,452.71
+S00513,W007,"North David",Lost,NULL,NULL,NULL
+S00514,W010,Catherinebury,Delivered,C00081,Approved,827.05
+S00515,W003,"East Grace","In Transit",NULL,NULL,NULL
+S00516,W004,"Lake Kimberlyberg",Delayed,C00100,Rejected,935.02
+S00516,W004,"Lake Kimberlyberg",Delayed,C00191,Approved,890.78
+S00517,W002,Josephstad,Lost,NULL,NULL,NULL
+S00518,W009,Henryberg,Lost,NULL,NULL,NULL
+S00519,W009,"East Antonio",Delayed,NULL,NULL,NULL
+S00520,W004,"West Stephaniebury",Lost,NULL,NULL,NULL
+S00521,W008,"Port James",Delayed,NULL,NULL,NULL
+S00522,W004,Camachofort,"In Transit",NULL,NULL,NULL
+S00523,W003,Michellebury,Delivered,NULL,NULL,NULL
+S00524,W002,Parsonsfurt,"In Transit",NULL,NULL,NULL
+S00525,W008,Phillipshire,Delivered,NULL,NULL,NULL
+S00526,W003,"New Danielmouth","In Transit",C00098,Pending,910.75
+S00527,W002,"New Amanda",Delayed,NULL,NULL,NULL
+S00528,W001,"New Paulton",Delivered,NULL,NULL,NULL
+S00529,W004,Scottport,"In Transit",NULL,NULL,NULL
+S00530,W001,Stevenchester,"In Transit",C00146,Approved,808.55
+S00531,W002,"Lake Zacharyberg",Delayed,NULL,NULL,NULL
+S00532,W010,Davishaven,"In Transit",NULL,NULL,NULL
+S00533,W004,"Port Brenda","In Transit",C00278,Approved,244.83
+S00534,W007,"South Robert",Lost,NULL,NULL,NULL
+S00535,W002,"East Shawnborough",Lost,NULL,NULL,NULL
+S00536,W003,"West Marioburgh",Delayed,NULL,NULL,NULL
+S00537,W006,"North Dannymouth",Delivered,NULL,NULL,NULL
+S00538,W004,Christopherfurt,Lost,NULL,NULL,NULL
+S00539,W004,"South Andrea","In Transit",NULL,NULL,NULL
+S00540,W007,"West Ariana",Lost,NULL,NULL,NULL
+S00541,W004,"East Misty",Delivered,NULL,NULL,NULL
+S00542,W006,"South Kylemouth",Delayed,C00083,Rejected,674.99
+S00543,W010,"North Rachel",Delivered,NULL,NULL,NULL
+S00544,W010,"New Kathytown",Lost,NULL,NULL,NULL
+S00545,W007,Foleyside,Lost,NULL,NULL,NULL
+S00546,W006,Youngshire,Delayed,NULL,NULL,NULL
+S00547,W010,Chavezmouth,Delivered,C00179,Pending,994.04
+S00548,W004,"East Nicoleview",Delivered,NULL,NULL,NULL
+S00549,W004,"North Jack","In Transit",NULL,NULL,NULL
+S00550,W007,Benjaminton,Delivered,NULL,NULL,NULL
+S00551,W006,Markland,Delivered,NULL,NULL,NULL
+S00552,W004,"South Victoriaburgh",Delayed,NULL,NULL,NULL
+S00553,W008,Cherylshire,"In Transit",NULL,NULL,NULL
+S00554,W001,"South Kara",Delivered,C00221,Pending,739.43
+S00555,W001,"North Kaylamouth",Lost,C00247,Rejected,190.51
+S00556,W004,Wilkinschester,Delivered,C00126,Rejected,100.31
+S00557,W004,"West Thomasville","In Transit",NULL,NULL,NULL
+S00558,W001,Markchester,"In Transit",NULL,NULL,NULL
+S00559,W001,"Lake Jason",Delayed,NULL,NULL,NULL
+S00560,W010,"New Jessicahaven",Delivered,C00121,Rejected,748.32
+S00561,W007,Ramseyport,"In Transit",C00233,Pending,836.05
+S00562,W004,Jordanshire,Delayed,NULL,NULL,NULL
+S00563,W005,Sarashire,Delivered,C00036,Approved,585.68
+S00564,W008,Vasquezburgh,Delayed,NULL,NULL,NULL
+S00565,W008,"Lake Kelly","In Transit",NULL,NULL,NULL
+S00566,W007,"North Andrewville",Lost,NULL,NULL,NULL
+S00567,W007,"Port Christina",Delayed,C00260,Rejected,784.95
+S00568,W003,Williamsstad,Delayed,C00055,Approved,190.34
+S00569,W008,"North Danielle","In Transit",NULL,NULL,NULL
+S00570,W010,Jonathanland,Delivered,C00136,Rejected,460.55
+S00571,W008,Williammouth,Lost,NULL,NULL,NULL
+S00572,W009,"North Ginamouth","In Transit",C00117,Approved,399.98
+S00572,W009,"North Ginamouth","In Transit",C00253,Rejected,525.23
+S00573,W007,"Port Gregorymouth",Delayed,NULL,NULL,NULL
+S00574,W010,Hendrickston,Delivered,C00111,Approved,517.02
+S00575,W002,"South Eric",Delivered,C00068,Rejected,400.39
+S00576,W007,Stevenchester,Delivered,NULL,NULL,NULL
+S00577,W008,"Port Adrianashire",Delayed,NULL,NULL,NULL
+S00578,W007,Angelatown,"In Transit",NULL,NULL,NULL
+S00579,W006,Laurenstad,Delayed,C00065,Rejected,263.55
+S00579,W006,Laurenstad,Delayed,C00251,Rejected,243.38
+S00580,W005,"West Mary",Delayed,NULL,NULL,NULL
+S00581,W010,Simsburgh,"In Transit",C00150,Pending,719.82
+S00582,W007,Lopezville,Delayed,C00224,Pending,235.85
+S00583,W002,Janetmouth,Lost,NULL,NULL,NULL
+S00584,W007,"West Robertfort",Lost,NULL,NULL,NULL
+S00585,W009,Shannonport,Delivered,C00104,Approved,975.27
+S00586,W002,Gregorystad,Delayed,NULL,NULL,NULL
+S00587,W006,"North Scott",Lost,NULL,NULL,NULL
+S00588,W007,Steinberg,Delayed,C00079,Rejected,383.54
+S00589,W001,Sandrahaven,Delayed,NULL,NULL,NULL
+S00590,W007,Douglasville,Delayed,NULL,NULL,NULL
+S00591,W006,"East Jenny",Delivered,C00013,Pending,992.96
+S00592,W003,Reeveshaven,Delivered,C00259,Approved,442.13
+S00593,W004,"West Sarahland",Delivered,C00218,Pending,853.76
+S00594,W004,Smallville,"In Transit",NULL,NULL,NULL
+S00595,W010,Andrewport,Delivered,NULL,NULL,NULL
+S00596,W002,"West James",Delayed,NULL,NULL,NULL
+S00597,W001,Amandamouth,Delivered,NULL,NULL,NULL
+S00598,W002,"West Edwardview",Lost,NULL,NULL,NULL
+S00599,W001,"New Anitaville",Delivered,NULL,NULL,NULL
+S00600,W001,Andreaview,Delayed,NULL,NULL,NULL
+S00601,W005,Audreyburgh,Delivered,NULL,NULL,NULL
+S00602,W006,Christinamouth,Delivered,NULL,NULL,NULL
+S00603,W004,Williamstown,Delivered,C00076,Pending,699.88
+S00604,W001,"North Patrickland",Delayed,NULL,NULL,NULL
+S00605,W007,Whiteshire,Delayed,NULL,NULL,NULL
+S00606,W009,Jensenport,Lost,NULL,NULL,NULL
+S00607,W010,"Lake Katherine",Delivered,C00223,Pending,246.46
+S00608,W001,"Port Kathyshire","In Transit",NULL,NULL,NULL
+S00609,W001,"Port Leahmouth",Delivered,C00143,Rejected,592.03
+S00610,W008,Collinsmouth,"In Transit",NULL,NULL,NULL
+S00611,W006,"East Douglas",Delayed,C00067,Pending,546.56
+S00612,W002,Robertafurt,Lost,NULL,NULL,NULL
+S00613,W003,Kristinamouth,Delayed,NULL,NULL,NULL
+S00614,W003,Johnsonfort,Delivered,NULL,NULL,NULL
+S00615,W009,Timothyburgh,Lost,NULL,NULL,NULL
+S00616,W008,Cassandraberg,Lost,NULL,NULL,NULL
+S00617,W002,"South Lisaville",Delivered,C00130,Rejected,482.42
+S00618,W006,"Port Kevinmouth","In Transit",NULL,NULL,NULL
+S00619,W005,Allenbury,"In Transit",NULL,NULL,NULL
+S00620,W009,"South Patrick","In Transit",NULL,NULL,NULL
+S00621,W004,"Port Heather",Delayed,NULL,NULL,NULL
+S00622,W007,Bradleymouth,Delivered,C00002,Rejected,566.76
+S00622,W007,Bradleymouth,Delivered,C00069,Approved,240.93
+S00622,W007,Bradleymouth,Delivered,C00202,Pending,966.08
+S00623,W002,"East Elaine",Delayed,NULL,NULL,NULL
+S00624,W010,Wilsonmouth,Delayed,NULL,NULL,NULL
+S00625,W003,"Port Seanport",Delivered,NULL,NULL,NULL
+S00626,W005,"New Danielfurt",Delayed,NULL,NULL,NULL
+S00627,W007,Newmanton,Delivered,NULL,NULL,NULL
+S00628,W003,"Port Dominic",Lost,NULL,NULL,NULL
+S00629,W002,"Port Dwayneberg",Delayed,C00128,Pending,892.30
+S00629,W002,"Port Dwayneberg",Delayed,C00164,Approved,488.21
+S00630,W006,Petershire,Lost,NULL,NULL,NULL
+S00631,W008,"East Erin",Delayed,NULL,NULL,NULL
+S00632,W001,Ashleyport,Delivered,NULL,NULL,NULL
+S00633,W002,Veronicashire,Delivered,C00020,Rejected,501.84
+S00634,W004,Abbottport,Delivered,NULL,NULL,NULL
+S00635,W001,Rachelton,"In Transit",C00212,Rejected,505.30
+S00636,W004,Danielport,Lost,NULL,NULL,NULL
+S00637,W007,"South Jacqueline",Delayed,NULL,NULL,NULL
+S00638,W009,Jenniferfurt,Delayed,NULL,NULL,NULL
+S00639,W006,Gardnerburgh,"In Transit",NULL,NULL,NULL
+S00640,W005,"East Angela",Delivered,NULL,NULL,NULL
+S00641,W009,Mooreberg,Lost,C00027,Pending,929.74
+S00642,W010,"North Deborahberg",Delayed,NULL,NULL,NULL
+S00643,W003,Barrettberg,"In Transit",NULL,NULL,NULL
+S00644,W003,"Lake Linda",Delayed,NULL,NULL,NULL
+S00645,W001,Hansonmouth,Delayed,NULL,NULL,NULL
+S00646,W003,Arnoldmouth,Lost,C00096,Rejected,185.57
+S00647,W001,Jeremiahchester,"In Transit",NULL,NULL,NULL
+S00648,W001,"New Tyronebury",Lost,NULL,NULL,NULL
+S00649,W007,Robertside,"In Transit",NULL,NULL,NULL
+S00650,W001,Arthurton,"In Transit",NULL,NULL,NULL
+S00651,W010,Bushville,Delivered,NULL,NULL,NULL
+S00652,W002,Nixonland,Delayed,NULL,NULL,NULL
+S00653,W008,Stevenland,Delayed,NULL,NULL,NULL
+S00654,W002,"East Thomasland",Delivered,NULL,NULL,NULL
+S00655,W004,Chloemouth,Lost,NULL,NULL,NULL
+S00656,W008,"South Shawnfort","In Transit",NULL,NULL,NULL
+S00657,W010,Robertport,Delivered,C00236,Pending,630.67
+S00658,W007,"North Heather",Delivered,NULL,NULL,NULL
+S00659,W002,Jessicashire,Delayed,NULL,NULL,NULL
+S00660,W001,"Lake Thomasburgh",Delayed,NULL,NULL,NULL
+S00661,W009,"Lake Veronicatown",Delivered,C00007,Rejected,833.21
+S00662,W009,Millerhaven,"In Transit",NULL,NULL,NULL
+S00663,W002,Johnathanview,Delayed,NULL,NULL,NULL
+S00664,W009,Alexisville,Delayed,NULL,NULL,NULL
+S00665,W010,"New Joanne","In Transit",NULL,NULL,NULL
+S00666,W005,Woodburgh,Delivered,C00044,Approved,408.15
+S00667,W006,"South Henry",Delayed,NULL,NULL,NULL
+S00668,W001,"West Traceyberg",Delivered,NULL,NULL,NULL
+S00669,W009,"Port Tyler",Lost,NULL,NULL,NULL
+S00670,W010,Youngmouth,Delivered,NULL,NULL,NULL
+S00671,W006,"East Becky",Delayed,NULL,NULL,NULL
+S00672,W001,"Lake Josephville",Delivered,NULL,NULL,NULL
+S00673,W004,"South Raymond",Delayed,NULL,NULL,NULL
+S00674,W006,Reeseside,"In Transit",NULL,NULL,NULL
+S00675,W002,Vegafurt,Lost,NULL,NULL,NULL
+S00676,W003,Dustinchester,Delivered,NULL,NULL,NULL
+S00677,W007,Saramouth,Lost,C00024,Rejected,509.81
+S00678,W005,Suzanneton,Delivered,C00021,Pending,939.16
+S00679,W009,Stephaniechester,Lost,NULL,NULL,NULL
+S00680,W007,Matthewview,Delayed,NULL,NULL,NULL
+S00681,W005,Destinyfurt,Delivered,C00028,Pending,983.79
+S00682,W007,"Lake Emily",Lost,NULL,NULL,NULL
+S00683,W006,"New Matthew",Delayed,C00107,Pending,845.93
+S00684,W002,"West Amy",Lost,C00004,Rejected,266.19
+S00685,W002,"Port Carloschester",Lost,NULL,NULL,NULL
+S00686,W010,"Lake Seanbury","In Transit",C00090,Pending,624.58
+S00687,W010,Johnathanton,Lost,NULL,NULL,NULL
+S00688,W001,"North Sheenaborough",Delayed,C00232,Pending,743.38
+S00689,W009,"Lake Susanland","In Transit",NULL,NULL,NULL
+S00690,W003,"South Diana",Delivered,NULL,NULL,NULL
+S00691,W003,"North Heather",Delivered,C00110,Rejected,812.32
+S00692,W005,Stevenland,"In Transit",NULL,NULL,NULL
+S00693,W004,Livingstonview,"In Transit",C00066,Rejected,502.14
+S00694,W006,Schwartzmouth,Lost,NULL,NULL,NULL
+S00695,W007,"Port Charles",Delivered,NULL,NULL,NULL
+S00696,W002,"South Paulton",Delayed,C00153,Rejected,152.73
+S00697,W002,Gregoryland,Delayed,NULL,NULL,NULL
+S00698,W003,"New Philip",Delayed,C00270,Pending,435.56
+S00699,W008,Rodriguezside,Lost,C00163,Rejected,806.97
+S00700,W003,Robinsonville,"In Transit",C00156,Rejected,304.36
+S00701,W009,Dakotaland,Delivered,NULL,NULL,NULL
+S00702,W001,Kimberlytown,"In Transit",NULL,NULL,NULL
+S00703,W004,"Lake Danielle",Lost,NULL,NULL,NULL
+S00704,W008,Adamsmouth,Delivered,C00014,Pending,183.64
+S00705,W003,"New Jasminefort",Lost,NULL,NULL,NULL
+S00706,W001,Powellland,Lost,NULL,NULL,NULL
+S00707,W002,"North Patrick",Delivered,NULL,NULL,NULL
+S00708,W002,Martinezside,Delayed,NULL,NULL,NULL
+S00709,W004,Evelynfurt,Delivered,NULL,NULL,NULL
+S00710,W004,"West Amandamouth",Delayed,NULL,NULL,NULL
+S00711,W001,Hodgesport,Lost,NULL,NULL,NULL
+S00712,W001,"East Angela",Lost,NULL,NULL,NULL
+S00713,W001,"West Heather",Lost,NULL,NULL,NULL
+S00714,W001,Tommouth,Delayed,C00149,Rejected,380.45
+S00715,W009,"East Austin",Delayed,NULL,NULL,NULL
+S00716,W008,"South Paul","In Transit",NULL,NULL,NULL
+S00717,W008,Victormouth,Delayed,NULL,NULL,NULL
+S00718,W003,"West Brianton",Delivered,C00030,Approved,995.11
+S00719,W008,"East Lindsayhaven",Lost,C00120,Approved,851.58
+S00720,W001,"Lake Beth",Delayed,NULL,NULL,NULL
+S00721,W005,"Lake Donaldtown","In Transit",C00246,Pending,988.10
+S00722,W006,"East Jacquelineberg",Delivered,NULL,NULL,NULL
+S00723,W008,"Lake Brendan","In Transit",NULL,NULL,NULL
+S00724,W008,"South Cherylshire",Lost,NULL,NULL,NULL
+S00725,W007,"North Tylerbury","In Transit",NULL,NULL,NULL
+S00726,W003,"South Matthew",Delayed,NULL,NULL,NULL
+S00727,W004,Nguyenshire,Delayed,NULL,NULL,NULL
+S00728,W010,"West Mary","In Transit",NULL,NULL,NULL
+S00729,W008,"New Glennland",Delivered,C00227,Pending,251.00
+S00730,W003,Donaldchester,Delivered,NULL,NULL,NULL
+S00731,W002,Angelamouth,"In Transit",NULL,NULL,NULL
+S00732,W007,"East Craigfurt","In Transit",C00201,Pending,689.55
+S00733,W002,"North Nichole",Lost,NULL,NULL,NULL
+S00734,W010,"North Harryland",Delayed,NULL,NULL,NULL
+S00735,W001,Robertfort,Lost,NULL,NULL,NULL
+S00736,W010,"East Douglas","In Transit",NULL,NULL,NULL
+S00737,W009,Jenkinsburgh,"In Transit",NULL,NULL,NULL
+S00738,W004,"New Hectorfort","In Transit",NULL,NULL,NULL
+S00739,W007,"Lake Margaretport",Delayed,NULL,NULL,NULL
+S00740,W005,Smithbury,Delivered,NULL,NULL,NULL
+S00741,W001,"New Tiffanystad","In Transit",NULL,NULL,NULL
+S00742,W006,"South Kaylee",Delayed,NULL,NULL,NULL
+S00743,W010,"West Brian",Delayed,NULL,NULL,NULL
+S00744,W008,"Lake Megan",Lost,NULL,NULL,NULL
+S00745,W001,Thompsonton,Delivered,NULL,NULL,NULL
+S00746,W006,Justinchester,Delivered,NULL,NULL,NULL
+S00747,W005,Christinamouth,Lost,NULL,NULL,NULL
+S00748,W002,"Lake Brianside",Lost,NULL,NULL,NULL
+S00749,W001,"Port Anthony",Lost,NULL,NULL,NULL
+S00750,W002,"North Pattymouth",Delayed,NULL,NULL,NULL
+S00751,W008,Robertmouth,Delayed,NULL,NULL,NULL
+S00752,W003,"West Jeremybury","In Transit",NULL,NULL,NULL
+S00753,W009,Kanefurt,Delayed,NULL,NULL,NULL
+S00754,W002,"South Brendaton",Delivered,NULL,NULL,NULL
+S00755,W009,"East Sarah",Delivered,NULL,NULL,NULL
+S00756,W003,"South Nathaniel",Lost,NULL,NULL,NULL
+S00757,W004,"Lake Michael",Delayed,NULL,NULL,NULL
+S00758,W009,"West David","In Transit",C00194,Pending,882.88
+S00759,W007,"West Derekmouth","In Transit",NULL,NULL,NULL
+S00760,W005,Jacksonmouth,Lost,NULL,NULL,NULL
+S00761,W004,Cassandraburgh,Lost,NULL,NULL,NULL
+S00762,W009,"North Robert",Delivered,C00285,Approved,304.67
+S00763,W005,Atkinsborough,Delivered,NULL,NULL,NULL
+S00764,W009,Hoodview,"In Transit",NULL,NULL,NULL
+S00765,W005,Fitzgeraldbury,"In Transit",C00022,Rejected,133.32
+S00766,W004,Ryanbury,Lost,NULL,NULL,NULL
+S00767,W006,"New Rachel","In Transit",NULL,NULL,NULL
+S00768,W009,"North Vickiehaven",Delivered,NULL,NULL,NULL
+S00769,W010,Schmidtfort,Lost,NULL,NULL,NULL
+S00770,W001,"South Tylerland",Delivered,NULL,NULL,NULL
+S00771,W003,"Lake Jessicaborough",Lost,C00157,Approved,286.43
+S00772,W010,Kennethland,Delivered,NULL,NULL,NULL
+S00773,W005,Caldwellburgh,Delayed,NULL,NULL,NULL
+S00774,W005,Hodgeshire,Delayed,NULL,NULL,NULL
+S00775,W007,Fordberg,Delivered,NULL,NULL,NULL
+S00776,W007,Lopezstad,Delivered,NULL,NULL,NULL
+S00777,W003,Padillatown,"In Transit",NULL,NULL,NULL
+S00778,W008,"South Patriciamouth","In Transit",NULL,NULL,NULL
+S00779,W003,"West Ronaldview",Lost,C00125,Approved,842.97
+S00780,W002,"Port Gail",Delayed,NULL,NULL,NULL
+S00781,W007,Jillton,Lost,C00037,Pending,290.81
+S00782,W001,Pamelaville,"In Transit",C00056,Approved,540.09
+S00783,W001,Steventon,"In Transit",C00109,Rejected,940.73
+S00784,W005,Gregoryside,Lost,NULL,NULL,NULL
+S00785,W001,"New Jennaborough","In Transit",NULL,NULL,NULL
+S00786,W002,Johnville,Delivered,NULL,NULL,NULL
+S00787,W008,Mclaughlinshire,Lost,NULL,NULL,NULL
+S00788,W004,"Port Julie",Delayed,NULL,NULL,NULL
+S00789,W009,Michaelview,Delivered,C00171,Approved,402.86
+S00790,W005,Ramirezland,Lost,NULL,NULL,NULL
+S00791,W004,Shaunhaven,Delivered,NULL,NULL,NULL
+S00792,W006,"South Jenniferside",Delivered,NULL,NULL,NULL
+S00793,W002,Oliverland,Lost,NULL,NULL,NULL
+S00794,W005,Millerfurt,Delayed,C00297,Pending,299.60
+S00795,W006,Susanland,Lost,NULL,NULL,NULL
+S00796,W007,"West Daniel",Delayed,C00025,Approved,234.67
+S00797,W007,Hernandezborough,Delayed,NULL,NULL,NULL
+S00798,W005,"West Robertside",Lost,NULL,NULL,NULL
+S00799,W006,Reedmouth,Delivered,NULL,NULL,NULL
+S00800,W003,"West Jaimetown",Delayed,NULL,NULL,NULL
+S00801,W008,Robertmouth,Delivered,C00254,Approved,427.68
+S00802,W005,Toddhaven,Delayed,NULL,NULL,NULL
+S00803,W003,Ellisshire,Delivered,NULL,NULL,NULL
+S00804,W008,Georgeview,Delayed,C00252,Rejected,575.16
+S00805,W004,Watsonport,Lost,NULL,NULL,NULL
+S00806,W009,"East Michaelmouth","In Transit",C00281,Rejected,948.67
+S00807,W007,"Lake Amanda",Delayed,NULL,NULL,NULL
+S00808,W010,"Port Jean",Delivered,NULL,NULL,NULL
+S00809,W001,"East John","In Transit",NULL,NULL,NULL
+S00810,W003,Autumnmouth,Delayed,NULL,NULL,NULL
+S00811,W003,Jackside,Delayed,NULL,NULL,NULL
+S00812,W009,"Lake Loganstad",Delivered,NULL,NULL,NULL
+S00813,W001,Shaneburgh,"In Transit",NULL,NULL,NULL
+S00814,W007,Davidtown,Delayed,NULL,NULL,NULL
+S00815,W002,Mackmouth,"In Transit",NULL,NULL,NULL
+S00816,W001,"North Tara",Lost,NULL,NULL,NULL
+S00817,W002,Deborahport,Lost,NULL,NULL,NULL
+S00818,W003,Tarashire,Delayed,NULL,NULL,NULL
+S00819,W005,"Port Annette",Delivered,C00170,Pending,888.30
+S00820,W001,Hannahfort,Delivered,NULL,NULL,NULL
+S00821,W001,"Lake Andrea",Delayed,NULL,NULL,NULL
+S00822,W007,"South Christinabury",Delayed,NULL,NULL,NULL
+S00823,W010,Christopherton,Lost,NULL,NULL,NULL
+S00824,W003,"New Alicia","In Transit",NULL,NULL,NULL
+S00825,W003,Jamesland,Lost,C00032,Rejected,744.11
+S00826,W007,Rhodesland,Delayed,NULL,NULL,NULL
+S00827,W002,Leemouth,Delayed,NULL,NULL,NULL
+S00828,W007,"Lake Michaelberg",Delivered,NULL,NULL,NULL
+S00829,W007,Woodstad,Lost,NULL,NULL,NULL
+S00830,W006,Michaelport,Lost,NULL,NULL,NULL
+S00831,W009,"East Jessicamouth",Delivered,C00295,Rejected,291.90
+S00832,W005,Laraport,Delivered,NULL,NULL,NULL
+S00833,W001,Chandlerchester,Delayed,NULL,NULL,NULL
+S00834,W010,"East Jaredfort",Delayed,C00085,Rejected,444.00
+S00835,W006,Carlshire,Delivered,C00101,Approved,973.46
+S00836,W005,Davischester,Delayed,C00228,Pending,113.41
+S00837,W007,Robertside,Delayed,C00241,Rejected,949.11
+S00838,W006,"East Jacob","In Transit",NULL,NULL,NULL
+S00839,W003,Angelaton,Delayed,NULL,NULL,NULL
+S00840,W001,Troymouth,"In Transit",C00094,Approved,195.12
+S00840,W001,Troymouth,"In Transit",C00211,Approved,719.59
+S00841,W002,"Port Aaronview",Lost,C00133,Pending,743.26
+S00841,W002,"Port Aaronview",Lost,C00286,Pending,279.65
+S00842,W003,Martinezport,"In Transit",C00082,Approved,936.33
+S00843,W010,"South Rebecca",Delayed,NULL,NULL,NULL
+S00844,W003,"North David",Delayed,C00034,Pending,798.73
+S00845,W007,Gambleland,Delayed,NULL,NULL,NULL
+S00846,W004,Biancashire,Lost,NULL,NULL,NULL
+S00847,W008,Courtneyfort,Delivered,NULL,NULL,NULL
+S00848,W005,"West Williamshire",Lost,C00045,Rejected,299.65
+S00849,W006,Franciscoton,Delivered,NULL,NULL,NULL
+S00850,W010,Stevenberg,Delivered,NULL,NULL,NULL
+S00851,W008,"North Joseph",Delayed,C00072,Approved,729.53
+S00852,W008,Brandonport,"In Transit",NULL,NULL,NULL
+S00853,W006,"New Jamesburgh",Delayed,C00239,Pending,131.38
+S00854,W003,"New Karenside","In Transit",NULL,NULL,NULL
+S00855,W006,Margaretport,Delivered,NULL,NULL,NULL
+S00856,W008,Codyshire,Lost,NULL,NULL,NULL
+S00857,W001,"North Derrick",Lost,NULL,NULL,NULL
+S00858,W002,Kimberlychester,Delayed,NULL,NULL,NULL
+S00859,W002,"North Jeffery",Lost,C00070,Approved,900.67
+S00860,W006,"Port Jacob",Lost,C00031,Rejected,829.42
+S00860,W006,"Port Jacob",Lost,C00219,Approved,712.92
+S00861,W008,"South Stevenland",Delayed,NULL,NULL,NULL
+S00862,W007,"North Timothy",Lost,C00095,Rejected,694.68
+S00863,W006,Donmouth,Delivered,C00208,Pending,410.81
+S00864,W008,Geraldport,Lost,NULL,NULL,NULL
+S00865,W003,"East Davidberg",Lost,NULL,NULL,NULL
+S00866,W010,"West David",Delayed,C00141,Rejected,523.04
+S00867,W006,"South Hannahville",Lost,NULL,NULL,NULL
+S00868,W001,"Port Toddchester","In Transit",NULL,NULL,NULL
+S00869,W002,"North Antonio",Delivered,C00205,Pending,892.99
+S00870,W005,"South Davidview",Delivered,NULL,NULL,NULL
+S00871,W005,"West Elizabethville",Delayed,NULL,NULL,NULL
+S00872,W007,"New Jamieborough",Delivered,NULL,NULL,NULL
+S00873,W006,Anthonyberg,"In Transit",NULL,NULL,NULL
+S00874,W003,Stacystad,"In Transit",NULL,NULL,NULL
+S00875,W001,"Port Vincent",Delivered,NULL,NULL,NULL
+S00876,W010,"New Ashley",Delivered,NULL,NULL,NULL
+S00877,W006,"New Jayborough",Delayed,NULL,NULL,NULL
+S00878,W008,"Port Amanda","In Transit",NULL,NULL,NULL
+S00879,W009,"East Samanthafort",Lost,C00206,Rejected,563.23
+S00880,W010,"South Emily",Lost,NULL,NULL,NULL
+S00881,W004,"Port Michael","In Transit",NULL,NULL,NULL
+S00882,W010,Lewisbury,Delayed,NULL,NULL,NULL
+S00883,W004,"Port Traceyville","In Transit",NULL,NULL,NULL
+S00884,W005,"New Derekstad",Delayed,NULL,NULL,NULL
+S00885,W008,Angelaton,Lost,NULL,NULL,NULL
+S00886,W009,Tristanfurt,Delivered,NULL,NULL,NULL
+S00887,W003,Burkeport,"In Transit",NULL,NULL,NULL
+S00888,W010,Perezchester,"In Transit",C00144,Rejected,515.55
+S00888,W010,Perezchester,"In Transit",C00188,Approved,515.08
+S00889,W007,Lopezland,Delayed,NULL,NULL,NULL
+S00890,W002,Harryfort,Delayed,NULL,NULL,NULL
+S00891,W010,"South Samuelland","In Transit",NULL,NULL,NULL
+S00892,W010,"South Richard",Delivered,NULL,NULL,NULL
+S00893,W010,"Lake Saraburgh","In Transit",C00009,Pending,120.56
+S00893,W010,"Lake Saraburgh","In Transit",C00300,Pending,478.61
+S00894,W004,Theresamouth,Lost,NULL,NULL,NULL
+S00895,W002,Martinezchester,"In Transit",NULL,NULL,NULL
+S00896,W008,Ramirezshire,"In Transit",C00182,Rejected,255.60
+S00896,W008,Ramirezshire,"In Transit",C00215,Rejected,823.51
+S00897,W007,Katelynfurt,"In Transit",NULL,NULL,NULL
+S00898,W005,Estradafurt,Delivered,NULL,NULL,NULL
+S00899,W001,Dylanmouth,Delivered,C00289,Approved,605.60
+S00900,W006,"West Tracybury",Lost,NULL,NULL,NULL
+S00901,W003,"North Cory",Delivered,NULL,NULL,NULL
+S00902,W004,"South Erikaburgh","In Transit",NULL,NULL,NULL
+S00903,W007,Ericville,Delivered,C00258,Rejected,509.10
+S00904,W007,"Lake Karenfort",Delayed,NULL,NULL,NULL
+S00905,W009,"West Ebony",Delivered,C00092,Rejected,863.31
+S00906,W005,Amyside,Lost,NULL,NULL,NULL
+S00907,W002,"Port Anthonychester","In Transit",NULL,NULL,NULL
+S00908,W010,Colefurt,Delayed,NULL,NULL,NULL
+S00909,W002,Johnsonburgh,Delayed,C00277,Pending,104.55
+S00910,W008,Nicoleburgh,Delivered,NULL,NULL,NULL
+S00911,W004,Taylorfurt,Lost,C00229,Rejected,114.65
+S00912,W007,"New Emilyside",Delivered,NULL,NULL,NULL
+S00913,W003,Alvarezburgh,Delivered,NULL,NULL,NULL
+S00914,W002,"South Joseshire",Delivered,NULL,NULL,NULL
+S00915,W005,Katieport,Lost,NULL,NULL,NULL
+S00916,W006,"North Brittanyberg",Delivered,NULL,NULL,NULL
+S00917,W001,Lisashire,Delivered,NULL,NULL,NULL
+S00918,W002,Oscarchester,Delivered,C00132,Rejected,421.97
+S00919,W006,Robertton,Delayed,C00142,Pending,795.16
+S00920,W003,"East Jimmy","In Transit",C00235,Rejected,935.70
+S00921,W008,"Lake Cameronport",Delayed,NULL,NULL,NULL
+S00922,W005,Geoffreyside,Lost,NULL,NULL,NULL
+S00923,W001,"South Dianechester","In Transit",NULL,NULL,NULL
+S00924,W006,Adamsfort,Lost,NULL,NULL,NULL
+S00925,W004,"West Nicholasfurt",Delayed,C00243,Rejected,492.32
+S00926,W005,"Port Tracyborough","In Transit",NULL,NULL,NULL
+S00927,W006,Shawmouth,"In Transit",C00114,Approved,811.10
+S00928,W008,Michaelchester,Lost,NULL,NULL,NULL
+S00929,W005,Reidland,"In Transit",NULL,NULL,NULL
+S00930,W005,"West Joseph",Delayed,NULL,NULL,NULL
+S00931,W010,Ballardland,Delivered,NULL,NULL,NULL
+S00932,W008,"New Matthewland",Lost,C00137,Approved,424.28
+S00932,W008,"New Matthewland",Lost,C00231,Rejected,557.13
+S00933,W005,Simmonsstad,Delayed,NULL,NULL,NULL
+S00934,W007,Williamport,Delivered,NULL,NULL,NULL
+S00935,W002,Jamesfurt,"In Transit",NULL,NULL,NULL
+S00936,W005,Powersside,Delayed,NULL,NULL,NULL
+S00937,W009,"Lake Jacquelineburgh",Delayed,NULL,NULL,NULL
+S00938,W006,Lewismouth,"In Transit",NULL,NULL,NULL
+S00939,W004,Michaelton,Delivered,C00245,Pending,369.18
+S00940,W002,"West Steven",Lost,NULL,NULL,NULL
+S00941,W006,"Lake Gina",Delayed,NULL,NULL,NULL
+S00942,W004,Jenkinsland,Delayed,NULL,NULL,NULL
+S00943,W004,"Port Robert","In Transit",NULL,NULL,NULL
+S00944,W010,"West Gloria",Lost,NULL,NULL,NULL
+S00945,W007,Allenberg,Lost,NULL,NULL,NULL
+S00946,W008,"East Lauraport",Delayed,NULL,NULL,NULL
+S00947,W002,Castrochester,Lost,NULL,NULL,NULL
+S00948,W007,"East Erikberg",Lost,C00274,Pending,469.01
+S00948,W007,"East Erikberg",Lost,C00294,Pending,979.66
+S00949,W010,Kristineview,Delivered,NULL,NULL,NULL
+S00950,W007,"Lake Melissa",Delayed,NULL,NULL,NULL
+S00951,W001,Caseyton,Delayed,NULL,NULL,NULL
+S00952,W007,Carolynland,Delayed,NULL,NULL,NULL
+S00953,W007,Emilyland,Delivered,NULL,NULL,NULL
+S00954,W001,"East Daniel",Delivered,NULL,NULL,NULL
+S00955,W008,"New Elizabethshire",Delayed,C00105,Pending,585.19
+S00956,W004,Tylerland,"In Transit",NULL,NULL,NULL
+S00957,W006,"Port Lindsaymouth",Lost,C00261,Approved,946.67
+S00958,W006,Shafferbury,Delayed,NULL,NULL,NULL
+S00959,W005,"East Daniel",Lost,NULL,NULL,NULL
+S00960,W002,Scottview,Lost,NULL,NULL,NULL
+S00961,W007,"South Amandaville",Delayed,NULL,NULL,NULL
+S00962,W010,Wellsbury,Delivered,NULL,NULL,NULL
+S00963,W003,"West Thomas",Delayed,NULL,NULL,NULL
+S00964,W009,Andrewton,Lost,NULL,NULL,NULL
+S00965,W008,"Lake Samanthabury","In Transit",C00038,Pending,899.29
+S00966,W002,Parkerstad,Delayed,C00112,Pending,698.13
+S00967,W006,"New Michellemouth",Delivered,NULL,NULL,NULL
