@@ -1,0 +1,4 @@
+category_id,product_id,product_name,total_sales
+10,201,Widget,1500.00
+10,202,Gadget,1500.00
+11,203,Thingamajig,3000.00

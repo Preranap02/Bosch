@@ -1,0 +1,604 @@
+A closure is a function that captures and remembers variables from the scope where it was created,
+
+even if that scope no longer exists.
+
+How it works:
+
+You define a nested function inside another function.
+
+The inner function uses variables from the outer function.
+
+The outer function returns the inner function.
+
+The returned inner function "remembers" the outer variables → this is a closure.
+def counter():
+
+
+def outer_function(x):
+    def inner_function(y):
+        return x + y  # inner function uses 'x' from outer scope
+    return inner_function
+
+# Create closure
+closure = outer_function(10)
+
+print(closure(5))   # 15
+print(closure(20))  # 30
+
+
+Here:
+
+outer_function ends after being called with 10.
+
+But inner_function still "remembers" x = 10.
+
+That’s why the closure works even after outer_function is gone.
+
+=========================================================================
+
+    count = 0
+    def increment():
+        nonlocal count
+        count += 1
+        return count
+    return increment
+
+c = counter()
+print(c())  # 1
+print(c())  # 2
+print(c())  # 3
+
+===============================================================
+
+# List comprehension (stores all values in memory)
+
+squares_list = [x*x for x in range(1_000_000)]
+
+print(type(squares_list))  # <class 'list'>
+
+print(len(squares_list))   # 1000000
+
+# This will consume hundreds of MBs of RAM because the whole list is stored.
+
+import sys
+
+squares_list = [x*x for x in range(1_000_000)]
+squares_gen = (x*x for x in range(1_000_000))
+
+print("List size:", sys.getsizeof(squares_list))     # Large (e.g., ~8 MB+)
+print("Generator size:", sys.getsizeof(squares_gen)) # Tiny (e.g., ~112 bytes)
+
+=========================================================================
+
+What is a Decorator in Python?
+
+A decorator is a special function in Python that allows you to modify or enhance the behavior of another function or 
+
+method without changing its actual code.
+
+
+It’s often used for code reusability, logging, authentication, performance measurement, validation, etc.
+
+In short:
+
+Decorator = A function that takes another function as input and returns a new function.
+
+
+Why do we need Decorators?
+
+To add extra functionality to existing functions in a clean and reusable way.
+
+To follow the DRY principle (Don’t Repeat Yourself).
+
+To make code more readable and maintainable.
+
+
+1. Basic Function Decorator
+def my_decorator(func):
+    def wrapper():
+        print("Before the function runs...")
+        func()
+        print("After the function runs...")
+    return wrapper
+
+@my_decorator
+def say_hello():
+    print("Hello, World!")
+
+say_hello()
+
+
+
+
+2. Decorator with Arguments
+
+def repeat_decorator(func):
+    def wrapper(*args, **kwargs):
+        print("Running twice...")
+        func(*args, **kwargs)
+        func(*args, **kwargs)
+    return wrapper
+
+@repeat_decorator
+def greet(name):
+    print(f"Hello {name}!")
+
+greet("Alice")
+
+
+===========================================================
+
+
+
+Timing Decorator (Performance Measurement)
+
+import time
+
+def timer_decorator(func):
+    def wrapper(*args, **kwargs):
+        start = time.time()
+        result = func(*args, **kwargs)
+        end = time.time()
+        print(f"{func.__name__} took {end-start:.5f} seconds")
+        return result
+    return wrapper
+
+@timer_decorator
+def compute_square(n):
+    return [i**2 for i in range(n)]
+
+compute_square(1000000)
+
+==========================================================
+
+Decorator for Price Formatting
+def price_decorator(func):
+    def wrapper(*args, **kwargs):
+        price = func(*args, **kwargs)
+        print(f"Price in INR: ₹{price}")
+        usd = price / 83  # Example: 1 USD ≈ 83 INR
+        print(f"Price in USD: ${usd:.2f}")
+        return price
+    return wrapper
+
+
+@price_decorator
+def get_price_in_inr():
+    return 8300   # Example price
+
+
+@price_decorator
+def laptop_price():
+    return 55000
+
+
+# Usage
+get_price_in_inr()
+print("------")
+laptop_price()
+
+=============================================================================
+
+
+def price_decorator(exchange_rate):
+    """Decorator factory to format INR price into INR and USD."""
+    def decorator(func):
+        def wrapper(*args, **kwargs):
+            price_in_inr = func(*args, **kwargs)
+            print(f"Price in INR: ₹{price_in_inr}")
+            usd = price_in_inr / exchange_rate
+            print(f"Price in USD: ${usd:.2f} (Rate: 1 USD = ₹{exchange_rate})")
+            return price_in_inr
+        return wrapper
+    return decorator
+
+
+@price_decorator(exchange_rate=83)   # you can change rate here
+def mobile_price():
+    return 24999
+
+
+@price_decorator(exchange_rate=82.5)
+def laptop_price():
+    return 55000
+
+
+# Usage
+mobile_price()
+print("------")
+laptop_price()
+
+====================================================================================
+Queues with Python:
+===================
+
+A queue is a linear data structure that follows the First-In-First-Out (FIFO) principle.
+
+Queues:
+
+Think of a queue as people standing in line in a supermarket.
+
+The first person to stand in line is also the first who can pay and leave the supermarket.
+
+Basic operations we can do on a queue are:
+
+Enqueue: Adds a new element to the queue.
+
+Dequeue: Removes and returns the first (front) element from the queue.
+
+Peek: Returns the first element in the queue.
+
+isEmpty: Checks if the queue is empty.
+
+Size: Finds the number of elements in the queue.
+
+Queues can be implemented by using arrays or linked lists.
+
+
+Queues can be used to implement job scheduling for an office printer, order processing for e-tickets,
+
+or to create algorithms for breadth-first search in graphs.
+
+==========================================================================================
+
+Using a Python list as a queue:
+
+queue = []
+
+# Enqueue
+queue.append('A')
+queue.append('B')
+queue.append('C')
+print("Queue: ", queue)
+
+# Peek
+frontElement = queue[0]
+print("Peek: ", frontElement)
+
+# Dequeue
+poppedElement = queue.pop(0)
+print("Dequeue: ", poppedElement)
+
+print("Queue after Dequeue: ", queue)
+
+# isEmpty
+isEmpty = not bool(queue)
+print("isEmpty: ", isEmpty)
+
+# Size
+print("Size: ", len(queue))
+
+
+Note: While using a list is simple, removing elements from the beginning (dequeue operation)
+requires shifting all remaining elements, making it less efficient for large queues.
+
+Implementing a Queue Class:
+==========================
+
+class Queue:
+  def __init__(self):
+    self.queue = []
+
+  def enqueue(self, element):
+    self.queue.append(element)
+
+  def dequeue(self):
+    if self.isEmpty():
+      return "Queue is empty"
+    return self.queue.pop(0)
+
+  def peek(self):
+    if self.isEmpty():
+      return "Queue is empty"
+    return self.queue[0]
+
+  def isEmpty(self):
+    return len(self.queue) == 0
+
+  def size(self):
+    return len(self.queue)
+
+# Create a queue
+myQueue = Queue()
+
+myQueue.enqueue('A')
+myQueue.enqueue('B')
+myQueue.enqueue('C')
+
+print("Queue: ", myQueue.queue)
+print("Peek: ", myQueue.peek())
+print("Dequeue: ", myQueue.dequeue())
+print("Queue after Dequeue: ", myQueue.queue)
+print("isEmpty: ", myQueue.isEmpty())
+print("Size: ", myQueue.size())
+
+===================================================================================
+
+Creating a Queue using a Linked List:
+
+class Node:
+  def __init__(self, data):
+    self.data = data
+    self.next = None
+
+class Queue:
+  def __init__(self):
+    self.front = None
+    self.rear = None
+    self.length = 0
+
+  def enqueue(self, element):
+    new_node = Node(element)
+    if self.rear is None:
+      self.front = self.rear = new_node
+      self.length += 1
+      return
+    self.rear.next = new_node
+    self.rear = new_node
+    self.length += 1
+
+  def dequeue(self):
+    if self.isEmpty():
+      return "Queue is empty"
+    temp = self.front
+    self.front = temp.next
+    self.length -= 1
+    if self.front is None:
+      self.rear = None
+    return temp.data
+
+  def peek(self):
+    if self.isEmpty():
+      return "Queue is empty"
+    return self.front.data
+
+  def isEmpty(self):
+    return self.length == 0
+
+  def size(self):
+    return self.length
+
+  def printQueue(self):
+    temp = self.front
+    while temp:
+      print(temp.data, end=" -> ")
+      temp = temp.next
+    print()
+
+# Create a queue
+myQueue = Queue()
+
+myQueue.enqueue('A')
+myQueue.enqueue('B')
+myQueue.enqueue('C')
+
+print("Queue: ", end="")
+myQueue.printQueue()
+print("Peek: ", myQueue.peek())
+print("Dequeue: ", myQueue.dequeue())
+print("Queue after Dequeue: ", end="")
+myQueue.printQueue()
+print("isEmpty: ", myQueue.isEmpty())
+print("Size: ", myQueue.size())
+==================================================================================
+
+Reasons for using linked lists to implement queues:
+
+Dynamic size: The queue can grow and shrink dynamically, unlike with arrays.
+
+No shifting: The front element of the queue can be removed (enqueue) without having to shift other elements in the memory.
+
+Reasons for not using linked lists to implement queues:
+
+Extra memory: Each queue element must contain the address to the next element (the next linked list node).
+
+Readability: The code might be harder to read and write for some because it is longer and more complex.
+
+=====================================================================================
+
+Common Queue Applications
+
+Queues are used in many real-world scenarios:
+
+
+Task scheduling in operating systems
+
+Breadth-first search in graphs
+
+Message queues in distributed systems
+
+======================================================================================
+
+A stack is a linear data structure that follows the Last-In-First-Out (LIFO) principle.
+
+Think of it like a stack of pancakes - you can only add or remove pancakes from the top.
+
+Stacks
+
+
+A stack is a data structure that can hold many elements, and the last element added is the first one to be removed.
+
+
+Like a pile of pancakes, the pancakes are both added and removed from the top.
+
+So when removing a pancake, it will always be the last pancake you added.
+
+This way of organizing elements is called LIFO: Last In First Out.
+
+Basic operations we can do on a stack are:
+
+Push: Adds a new element on the stack.
+
+Pop: Removes and returns the top element from the stack.
+
+Peek: Returns the top (last) element on the stack.
+
+isEmpty: Checks if the stack is empty.
+
+Size: Finds the number of elements in the stack.
+
+Stacks can be implemented by using arrays or linked lists.
+
+
+Stacks can be used to implement undo mechanisms, to revert to previous states, to create algorithms for depth-first search in graphs, or for backtracking.
+
+
+lab 1: stack can be created using  List
+=======================================
+
+stack = []
+
+# Push
+stack.append('A')
+stack.append('B')
+stack.append('C')
+print("Stack: ", stack)
+
+# Peek
+topElement = stack[-1]
+print("Peek: ", topElement)
+
+# Pop
+poppedElement = stack.pop()
+print("Pop: ", poppedElement)
+
+# Stack after Pop
+print("Stack after Pop: ", stack)
+
+# isEmpty
+isEmpty = not bool(stack)
+print("isEmpty: ", isEmpty)
+
+# Size
+print("Size: ",len(stack))
+
+==================================================================================================
+
+Lab 2: Creating a dedicated Stack class provides better encapsulation and additional functionality:
+
+
+
+Creating a stack using class:
+
+class Stack:
+  def __init__(self):
+    self.stack = []
+
+  def push(self, element):
+    self.stack.append(element)
+
+  def pop(self):
+    if self.isEmpty():
+      return "Stack is empty"
+    return self.stack.pop()
+
+  def peek(self):
+    if self.isEmpty():
+      return "Stack is empty"
+    return self.stack[-1]
+
+  def isEmpty(self):
+    return len(self.stack) == 0
+
+  def size(self):
+    return len(self.stack)
+
+# Create a stack
+myStack = Stack()
+
+myStack.push('A')
+myStack.push('B')
+myStack.push('C')
+
+print("Stack: ", myStack.stack)
+print("Pop: ", myStack.pop())
+print("Stack after Pop: ", myStack.stack)
+print("Peek: ", myStack.peek())
+print("isEmpty: ", myStack.isEmpty())
+print("Size: ", myStack.size())
+
+=======================================================================================================================================
+
+
+Reasons to implement stacks using lists/arrays:
+
+
+Memory Efficient: Array elements do not hold the next elements address like linked list nodes do.
+
+Easier to implement and understand: Using arrays to implement stacks require less code than using linked lists,
+
+ and for this reason it is typically easier to understand as well.
+
+
+A reason for not using arrays to implement stacks:
+
+Fixed size: An array occupies a fixed part of the memory.
+
+This means that it could take up more memory than needed, or if the array fills up, it cannot hold more elements.
+
+================================================================================================================================================
+
+A big benefit with using linked lists is that nodes are stored wherever there is free space in memory,
+
+the nodes do not have to be stored contiguously right after each other like elements are stored in arrays.
+
+Another nice thing with linked lists is that when adding or removing nodes, the rest of the nodes in the list do not have to be shifted.
+
+
+class Node:
+  def __init__(self, value):
+    self.value = value
+    self.next = None
+
+class Stack:
+  def __init__(self):
+    self.head = None
+    self.size = 0
+
+  def push(self, value):
+    new_node = Node(value)
+    if self.head:
+      new_node.next = self.head
+    self.head = new_node
+    self.size += 1
+
+  def pop(self):
+    if self.isEmpty():
+      return "Stack is empty"
+    popped_node = self.head
+    self.head = self.head.next
+    self.size -= 1
+    return popped_node.value
+
+  def peek(self):
+    if self.isEmpty():
+      return "Stack is empty"
+    return self.head.value
+
+  def isEmpty(self):
+    return self.size == 0
+
+  def stackSize(self):
+    return self.size
+
+  def traverseAndPrint(self):
+    currentNode = self.head
+    while currentNode:
+      print(currentNode.value, end=" -> ")
+      currentNode = currentNode.next
+    print()
+
+myStack = Stack()
+myStack.push('A')
+myStack.push('B')
+myStack.push('C')
+
+print("LinkedList: ", end="")
+myStack.traverseAndPrint()
+print("Peek: ", myStack.peek())
+print("Pop: ", myStack.pop())
+print("LinkedList after Pop: ", end="")
+myStack.traverseAndPrint()
+print("isEmpty: ", myStack.isEmpty())
+print("Size: ", myStack.stackSize())
+================================================================================================

@@ -1,62 +1,22 @@
 import pandas as pd
-import mysql.connector
+from sqlalchemy import create_engine
 
-csv_file = "/home/zadmin/temp/claims.csv"
-table_name = "Claims"
+# Load CSV
+df = pd.read_csv('home/zadmin/temp/shipments.csv')
 
-columns = [
-    "claim_id",
-    "delivery_id",
-    "reason",
-    "amount_claimed",
-    "claim_status",
-    "claim_date",
-    "resolved_date"
-]
+# Replace with your MySQL credentials
+username = 'root'
+password = 'Pass@123'
+host = 'localhost'  # or your server IP
+port = 3306  # default MySQL port
+database = 'Local instance 3306'
 
+# Create engine
+engine = create_engine(f'mysql+pymysql://{username}:{password}@{host}:{port}/{database}')
 
-df = pd.read_csv(csv_file)
-
-
-conn = mysql.connector.connect(
-    host="localhost",
-    user="",        
-    password= " ",   
-    database=  "" 
-)
-cursor = conn.cursor()
-
-
-sql = f"""
-INSERT INTO {table_name} ({', '.join(columns)})
-VALUES (%s, %s, %s, %s, %s, %s, %s)
-ON DUPLICATE KEY UPDATE
-    reason = VALUES(reason),
-    amount_claimed = VALUES(amount_claimed),
-    claim_status = VALUES(claim_status),
-    claim_date = VALUES(claim_date),
-    resolved_date = VALUES(resolved_date)
-"""
-
-for _, row in df.iterrows():
-    try:
-        data = (
-            row["claim_id"],
-            row["delivery_id"],
-            row["reason"],
-            float(row["amount_claimed"]),
-            row["claim_status"],
-            row["claim_date"],
-            row["resolved_date"]
-        )
-        cursor.execute(sql, data)
-    except mysql.connector.Error as err:
-        print(f"❌ Error inserting row for claim '{row['claim_id']}' and product '{row['delivery_id']}': {err}")
-
-
-conn.commit()
-cursor.close()
-conn.close()
-
-print(" Data inserted successfully!")
-
+# Insert data into 'shipments' table
+try:
+    df.to_sql('shipments', con=engine, if_exists='append', index=False)
+    print("Data inserted successfully!")
+except Exception as e:
+    print("Error:", e)
