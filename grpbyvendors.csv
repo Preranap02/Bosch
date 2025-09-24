@@ -1,0 +1,51 @@
+vendor_name,country,shipments_supplied,avg_rating,total_claims
+"Solis LLC","South Georgia and the South Sandwich Islands",6,2.80000,NULL
+Hernandez-Miller,"Russian Federation",15,4.90000,3095.22
+"Green PLC",Venezuela,5,4.20000,330.78
+"Harrison and Sons","Lao People's Democratic Republic",14,4.20000,868.57
+"Cameron Inc",Israel,14,5.00000,2818.60
+"Peters Ltd","South Georgia and the South Sandwich Islands",14,3.40000,2818.60
+Austin-Juarez,Malaysia,14,4.90000,2818.60
+"Hamilton, Green and Edwards",Luxembourg,17,4.20000,4643.42
+"Castillo, Fuller and Adams",Albania,7,3.30000,1963.87
+Davis-Oneill,"Syrian Arab Republic",7,4.70000,1963.87
+"White, Knapp and Sanchez",Philippines,6,2.90000,652.33
+Kelly-Richards,Macao,9,3.90000,1374.13
+Davis-Henderson,"New Zealand",15,2.50000,2827.37
+Mckee-Munoz,"Papua New Guinea",15,4.10000,2827.37
+"Manning PLC","Hong Kong",16,3.90000,3325.68
+"Coffey, George and Goodman",Albania,16,2.50000,3325.68
+"Arias PLC",Oman,9,3.30000,2130.23
+Mcclure-Alvarez,Nepal,9,3.20000,2130.23
+"Ruiz LLC","Wallis and Futuna",9,3.10000,2130.23
+Hernandez-Anderson,"French Southern Territories",5,2.60000,383.54
+"Clay Inc","Pitcairn Islands",9,3.40000,2618.04
+"Brady LLC",Uganda,9,3.90000,2618.04
+Graham-Martin,Liechtenstein,10,4.10000,1839.49
+"Willis, Silva and Bonilla",Seychelles,9,5.00000,2153.62
+"Ross and Sons","Sierra Leone",5,3.20000,715.91
+"Jones, Williams and Rodriguez","Isle of Man",4,4.50000,1478.83
+"Mills LLC",Australia,8,3.40000,1839.68
+"Harper, Jones and Hawkins",Grenada,10,3.10000,1462.04
+"Evans Group","Sri Lanka",9,2.90000,1038.89
+Mitchell-Goodwin,"Cape Verde",9,2.90000,1038.89
+"Hamilton Group",Armenia,13,3.00000,3848.67
+Booker-Douglas,Greece,13,3.90000,3848.67
+"Collier PLC",Liechtenstein,9,2.90000,1299.05
+"Marshall Ltd",Suriname,8,4.20000,1209.51
+Rodriguez-Cortez,"British Virgin Islands",13,4.10000,1738.47
+Davis-Phelps,Iceland,17,3.70000,3577.51
+"Evans, Matthews and Gibson",Korea,11,3.60000,3098.51
+"Peterson, Ford and Walker",Rwanda,11,2.80000,2156.20
+Kelly-Fletcher,Kuwait,5,2.70000,129.88
+Wagner-James,Paraguay,9,3.30000,148.14
+"Wilson Ltd","Christmas Island",12,4.30000,299.65
+Humphrey-Anderson,"Russian Federation",10,3.70000,1270.78
+"Miller, Mcdonald and Miller",Lesotho,13,3.40000,4723.90
+Wilson-Woodard,Armenia,13,3.40000,4723.90
+"Martinez, Brooks and Hickman",Taiwan,10,3.50000,777.50
+Anderson-Mcclain,Morocco,10,4.70000,777.50
+Adkins-Howe,"United Kingdom",8,4.10000,873.17
+"Cooke, Meadows and Robles",Croatia,17,3.40000,1673.59
+"Morton, Peterson and Hull",Colombia,8,3.20000,2685.79
+Brown-Hernandez,"Cocos (Keeling) Islands",9,3.10000,1384.05
